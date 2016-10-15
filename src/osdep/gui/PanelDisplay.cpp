@@ -73,7 +73,6 @@ AmigaScreenActionListener* amigaScreenActionListener;
 
 void InitPanelDisplay(const struct _ConfigCategory& category)
 {
-<<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
   amigaScreenActionListener = new AmigaScreenActionListener();
 
 	lblAmigaWidth = new gcn::Label("Width:");
@@ -115,25 +114,6 @@ void InitPanelDisplay(const struct _ConfigCategory& category)
 	chkFrameskip = new gcn::UaeCheckBox("Frameskip");
   chkFrameskip->addActionListener(amigaScreenActionListener);
 
-#ifdef RASPBERRY
-    lblFSRatio = new gcn::Label("Fullscreen Ratio:");
-    lblFSRatio->setSize(150, LABEL_HEIGHT);
-    lblFSRatio->setAlignment(gcn::Graphics::RIGHT);
-    sldFSRatio = new gcn::Slider(0, 20);
-    sldFSRatio->setSize(160, SLIDER_HEIGHT);
-    sldFSRatio->setBaseColor(gui_baseCol);
-    sldFSRatio->setMarkerLength(20);
-    sldFSRatio->setStepLength(1);
-    sldFSRatio->setId("FSRatio");
-    sldFSRatio->addActionListener(amigaScreenActionListener);
-    lblFSRatioInfo = new gcn::Label("100%%");
-
-    chkAspect = new gcn::UaeCheckBox("4/3 ratio shrink");
-    chkAspect->setId("4by3Ratio");
-    chkAspect->addActionListener(amigaScreenActionListener);
-
-#endif
-
 	grpAmigaScreen = new gcn::Window("Amiga Screen");
 	grpAmigaScreen->setPosition(DISTANCE_BORDER, DISTANCE_BORDER);
   
@@ -150,64 +130,6 @@ void InitPanelDisplay(const struct _ConfigCategory& category)
 	grpAmigaScreen->add(sldVertPos, 100, posY);
 	grpAmigaScreen->add(lblVertPosInfo, 100 + sldVertPos->getWidth() + 12, posY);
 	posY += sldVertPos->getHeight() + DISTANCE_NEXT_Y;
-=======
-    amigaScreenActionListener = new AmigaScreenActionListener();
-
-    lblAmigaWidth = new gcn::Label("Width:");
-    lblAmigaWidth->setSize(150, LABEL_HEIGHT);
-    lblAmigaWidth->setAlignment(gcn::Graphics::RIGHT);
-    sldAmigaWidth = new gcn::Slider(0, 5);
-    sldAmigaWidth->setSize(160, SLIDER_HEIGHT);
-    sldAmigaWidth->setBaseColor(gui_baseCol);
-    sldAmigaWidth->setMarkerLength(20);
-    sldAmigaWidth->setStepLength(1);
-    sldAmigaWidth->setId("sldWidth");
-    sldAmigaWidth->addActionListener(amigaScreenActionListener);
-    lblAmigaWidthInfo = new gcn::Label("320");
-
-    lblAmigaHeight = new gcn::Label("Height:");
-    lblAmigaHeight->setSize(150, LABEL_HEIGHT);
-    lblAmigaHeight->setAlignment(gcn::Graphics::RIGHT);
-    sldAmigaHeight = new gcn::Slider(0, 5);
-    sldAmigaHeight->setSize(160, SLIDER_HEIGHT);
-    sldAmigaHeight->setBaseColor(gui_baseCol);
-    sldAmigaHeight->setMarkerLength(20);
-    sldAmigaHeight->setStepLength(1);
-    sldAmigaHeight->setId("sldHeight");
-    sldAmigaHeight->addActionListener(amigaScreenActionListener);
-    lblAmigaHeightInfo = new gcn::Label("200");
-
-    lblVertPos = new gcn::Label("Vert. offset:");
-    lblVertPos->setSize(150, LABEL_HEIGHT);
-    lblVertPos->setAlignment(gcn::Graphics::RIGHT);
-    sldVertPos = new gcn::Slider(-16, 16);
-    sldVertPos->setSize(160, SLIDER_HEIGHT);
-    sldVertPos->setBaseColor(gui_baseCol);
-    sldVertPos->setMarkerLength(20);
-    sldVertPos->setStepLength(1);
-    sldVertPos->setId("sldVertPos");
-    sldVertPos->addActionListener(amigaScreenActionListener);
-    lblVertPosInfo = new gcn::Label("000");
-    chkFrameskip = new gcn::UaeCheckBox("Frameskip");
-    chkFrameskip->addActionListener(amigaScreenActionListener);
-
-    grpAmigaScreen = new gcn::Window("Amiga Screen");
-    grpAmigaScreen->setPosition(DISTANCE_BORDER, DISTANCE_BORDER);
-
-    int posY = 10;
-    grpAmigaScreen->add(lblAmigaWidth, 0, posY);
-    grpAmigaScreen->add(sldAmigaWidth, 160, posY);
-    grpAmigaScreen->add(lblAmigaWidthInfo, 160 + sldAmigaWidth->getWidth() + 12, posY);
-    posY += sldAmigaWidth->getHeight() + DISTANCE_NEXT_Y;
-    grpAmigaScreen->add(lblAmigaHeight, 0, posY);
-    grpAmigaScreen->add(sldAmigaHeight, 160, posY);
-    grpAmigaScreen->add(lblAmigaHeightInfo, 160 + sldAmigaHeight->getWidth() + 12, posY);
-    posY += sldAmigaHeight->getHeight() + DISTANCE_NEXT_Y;
-    grpAmigaScreen->add(lblVertPos, 0, posY);
-    grpAmigaScreen->add(sldVertPos, 160, posY);
-    grpAmigaScreen->add(lblVertPosInfo, 160 + sldVertPos->getWidth() + 12, posY);
-    posY += sldVertPos->getHeight() + DISTANCE_NEXT_Y;
->>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
 
     grpAmigaScreen->setMovable(false);
     grpAmigaScreen->setSize(320, posY + DISTANCE_BORDER);
@@ -264,30 +186,9 @@ void RefreshPanelDisplay(void)
         }
     }
 
-<<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-#ifdef RASPBERRY
-    for(i=0; i<21; ++i)
-    {
-        if(changed_prefs.gfx_fullscreen_ratio == FullscreenRatio[i])
-        {
-            sldFSRatio->setValue(i);
-            snprintf(tmp, 32, "%d%%", changed_prefs.gfx_fullscreen_ratio);
-            lblFSRatioInfo->setCaption(tmp);
-            break;
-        }
-    }
-
-    chkAspect->setSelected(changed_prefs.gfx_correct_aspect);
-#endif
-
-  sldVertPos->setValue(changed_prefs.pandora_vertical_offset);
-  snprintf(tmp, 32, "%d", changed_prefs.pandora_vertical_offset);
-  lblVertPosInfo->setCaption(tmp);
-=======
     sldVertPos->setValue(changed_prefs.pandora_vertical_offset);
     snprintf(tmp, 32, "%d", changed_prefs.pandora_vertical_offset);
     lblVertPosInfo->setCaption(tmp);
->>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
 
   chkFrameskip->setSelected(changed_prefs.gfx_framerate);
 }

@@ -19,20 +19,152 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zItem.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zStream.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zStream.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\akiko.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\akiko.o
   D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\amiberry.log
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\aros.rom.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\aros.rom.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\audio.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\audio.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\autoconf.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\autoconf.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bcj2.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bcj2.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blitfunc.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blitfunc.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blittable.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blittable.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blitter.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blitter.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blkdev.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blkdev.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blkdev_cdimage.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\blkdev_cdimage.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bra.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bra.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bra86.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bra86.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\calc.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\calc.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cdrom.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cdrom.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cfgfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cfgfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cia.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cia.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu_fpp.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu_fpp.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu_support.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu_support.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compstbl.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compstbl.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpudefs.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpudefs.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_0.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_0.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_11.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_11.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_4.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpuemu_4.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpustbl.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cpustbl.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc32.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc32.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crcio.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crcio.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc_csum.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc_csum.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\custom.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\custom.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\dhuf.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\dhuf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\disk.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\disk.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\diskutil.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\diskutil.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\drawing.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\drawing.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\events.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\events.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\expansion.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\expansion.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\filesys.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\filesys.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fpp.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fpp.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_unix.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_unix.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsusage.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsusage.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\getbits.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\getbits.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\gfxboard.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\gfxboard.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\gfxutil.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\gfxutil.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\header.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\header.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\huf.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\huf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\inputdevice.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\inputdevice.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keybuf.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keybuf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\larc.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\larc.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\lhamaketbl.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\lhamaketbl.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\lharc.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\lharc.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\LzmaDec.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\LzmaDec.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\maketbl.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\maketbl.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\memory.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\memory.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\native2amiga.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\native2amiga.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\neon_helper.o
-  Updating D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Makefile
-  VisualGDB: Updated source file list in D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Makefile. Enable verbose mode for more details.
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\shuf.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\shuf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\slide.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\slide.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\support.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\support.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\tables.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\tables.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uae_lha.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uae_lha.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\unlzx.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\unlzx.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\unzip.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\unzip.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\util.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\util.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_deep.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_deep.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_heavy.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_heavy.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_init.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_init.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_medium.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_medium.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_quick.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_quick.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_rle.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_rle.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\warp.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\warp.o
   VisualGDB: Run "cmd.exe /c "C:\SysGCC\raspberry\bin\make.exe" CONFIG=Debug -j8" in directory "D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry" on local computer
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-gcc.exe -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -DDEBUG=1 -c ../../osdep/neon_helper.s -o Debug/neon_helper.o -MD -MF Debug/neon_helper.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../akiko.cpp -o Debug/akiko.o -MD -MF Debug/akiko.dep
@@ -80,11 +212,12 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\dms\pfi
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/larc.cpp -o Debug/larc.o -MD -MF Debug/larc.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/lhamaketbl.cpp -o Debug/lhamaketbl.o -MD -MF Debug/lhamaketbl.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/lharc.cpp -o Debug/lharc.o -MD -MF Debug/lharc.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/shuf.cpp -o Debug/shuf.o -MD -MF Debug/shuf.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(29,28): warning : multi-character character constant [-Wmultichar]
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/slide.cpp -o Debug/slide.o -MD -MF Debug/slide.dep
        zv = zvolume_alloc(zf, ArchiveFormatLHA, NULL, NULL);
                               ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/shuf.cpp -o Debug/shuf.o -MD -MF Debug/shuf.dep
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/slide.cpp -o Debug/slide.o -MD -MF Debug/slide.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/uae_lha.cpp -o Debug/uae_lha.o -MD -MF Debug/uae_lha.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
    };
    ^
@@ -99,11 +232,10 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/uae_lha.cpp -o Debug/uae_lha.o -MD -MF Debug/uae_lha.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lzx\unlzx.cpp(758,31): warning : multi-character character constant [-Wmultichar]
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/util.cpp -o Debug/util.o -MD -MF Debug/util.dep
     zv = zvolume_alloc (in_file, ArchiveFormatLZX, NULL, NULL);
                                  ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/util.cpp -o Debug/util.o -MD -MF Debug/util.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lzx/unlzx.cpp -o Debug/unlzx.o -MD -MF Debug/unlzx.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/wrp/warp.cpp -o Debug/warp.o -MD -MF Debug/warp.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/zip/unzip.cpp -o Debug/unzip.o -MD -MF Debug/unzip.dep
@@ -209,16 +341,15 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\blkdev_cdimage.cp
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpuemu_11.cpp -o Debug/cpuemu_11.o -MD -MF Debug/cpuemu_11.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpuemu_4.cpp -o Debug/cpuemu_4.o -MD -MF Debug/cpuemu_4.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpustbl.cpp -o Debug/cpustbl.o -MD -MF Debug/cpustbl.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../crc32.cpp -o Debug/crc32.o -MD -MF Debug/crc32.dep
   ../../cfgfile.cpp: In function 'void write_filesys_config(uae_prefs*, const char*, const char*, zfile*)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\cfgfile.cpp(513,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
      str2 = _T("");
           ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../crc32.cpp -o Debug/crc32.o -MD -MF Debug/crc32.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../custom.cpp -o Debug/custom.o -MD -MF Debug/custom.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../disk.cpp -o Debug/disk.o -MD -MF Debug/disk.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../diskutil.cpp -o Debug/diskutil.o -MD -MF Debug/diskutil.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../drawing.cpp -o Debug/drawing.o -MD -MF Debug/drawing.dep
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../events.cpp -o Debug/events.o -MD -MF Debug/events.dep
   ../../disk.cpp: In function 'void createrootblock(uae_u8*, const char*)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\disk.cpp(285,7): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
      dn2 = "empty";
@@ -272,8 +403,10 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\disk.cpp(538,12):
   D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\sysconfig.h(483,29): note :  in definition of macro '_T'
    #define _T(x)               x
                                ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../events.cpp -o Debug/events.o -MD -MF Debug/events.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../expansion.cpp -o Debug/expansion.o -MD -MF Debug/expansion.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../filesys.cpp -o Debug/filesys.o -MD -MF Debug/filesys.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fpp.cpp -o Debug/fpp.o -MD -MF Debug/fpp.dep
   ../../expansion.cpp: In function 'void expamem_reset()':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\expansion.cpp(964,21): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
      card_name[cardno] = _T("Z2Fast");
@@ -293,10 +426,8 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\expansion.cpp(994
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\expansion.cpp(1001,21): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
      card_name[cardno] = _T("Empty");
                        ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fpp.cpp -o Debug/fpp.o -MD -MF Debug/fpp.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fsdb.cpp -o Debug/fsdb.o -MD -MF Debug/fsdb.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fsdb_unix.cpp -o Debug/fsdb_unix.o -MD -MF Debug/fsdb_unix.dep
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fsusage.cpp -o Debug/fsusage.o -MD -MF Debug/fsusage.dep
   ../../filesys.cpp: In function 'void get_fileinfo(Unit*, dpacket, uaecptr, a_inode*, bool)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(3257,6): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       xs= _T("");
@@ -305,7 +436,6 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(3257,
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(3547,13): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       commentx = _T("");
                ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../gfxboard.cpp -o Debug/gfxboard.o -MD -MF Debug/gfxboard.dep
   ../../filesys.cpp: In function 'int rdb_mount(UnitInfo*, int, int, uaecptr)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(6351,44): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
      if (rdb_checksum ("RDSK", bufrdb, rdblock))
@@ -325,6 +455,8 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(6492,
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\filesys.cpp(6526,44): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
      if (!rdb_checksum ("LSEG", buf, lsegblock))
                                               ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../fsusage.cpp -o Debug/fsusage.o -MD -MF Debug/fsusage.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../gfxboard.cpp -o Debug/gfxboard.o -MD -MF Debug/gfxboard.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../gfxutil.cpp -o Debug/gfxutil.o -MD -MF Debug/gfxutil.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../hardfile.cpp -o Debug/hardfile.o -MD -MF Debug/hardfile.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../inputdevice.cpp -o Debug/inputdevice.o -MD -MF Debug/inputdevice.dep
@@ -340,12 +472,6 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\jit\compemu_suppo
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../machdep/support.cpp -o Debug/support.o -MD -MF Debug/support.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../main.cpp -o Debug/main.o -MD -MF Debug/main.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../memory.cpp -o Debug/memory.o -MD -MF Debug/memory.dep
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\main.cpp(47,25): error : pandora_gfx.h: No such file or directory
-   #include "pandora_gfx.h"
-                           ^
-  compilation terminated.
-  make: *** [Debug/main.o] Error 1
-  make: *** Waiting for unfinished jobs....
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../native2amiga.cpp -o Debug/native2amiga.o -MD -MF Debug/native2amiga.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(423,31): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
    static uae_char *kickstring = "exec.library";
@@ -357,11 +483,247 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,10
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../newcpu.cpp -o Debug/newcpu.o -MD -MF Debug/newcpu.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../newcpu_common.cpp -o Debug/newcpu_common.o -MD -MF Debug/newcpu_common.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/bsdsocket_host.cpp -o Debug/bsdsocket_host.o -MD -MF Debug/bsdsocket_host.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/cda_play.cpp -o Debug/cda_play.o -MD -MF Debug/cda_play.dep
+  ../../newcpu.cpp: In function 'void mmu_op30fake_pmove(uaecptr, uae_u32, uae_u16, uaecptr)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(913,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("TC");
+          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(921,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("SRP");
+          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(932,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("CRP");
+          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(943,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("MMUSR");
+          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(951,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("TT0");
+          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(959,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      reg = _T("TT1");
+          ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/charset.cpp -o Debug/charset.o -MD -MF Debug/charset.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/fsdb_host.cpp -o Debug/fsdb_host.o -MD -MF Debug/fsdb_host.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/CreateFilesysHardfile.cpp -o Debug/CreateFilesysHardfile.o -MD -MF Debug/CreateFilesysHardfile.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/EditFilesysHardfile.cpp -o Debug/EditFilesysHardfile.o -MD -MF Debug/EditFilesysHardfile.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/EditFilesysVirtual.cpp -o Debug/EditFilesysVirtual.o -MD -MF Debug/EditFilesysVirtual.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/InGameMessage.cpp -o Debug/InGameMessage.o -MD -MF Debug/InGameMessage.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/main_window.cpp -o Debug/main_window.o -MD -MF Debug/main_window.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/Navigation.cpp -o Debug/Navigation.o -MD -MF Debug/Navigation.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelChipset.cpp -o Debug/PanelChipset.o -MD -MF Debug/PanelChipset.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelConfig.cpp -o Debug/PanelConfig.o -MD -MF Debug/PanelConfig.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelCPU.cpp -o Debug/PanelCPU.o -MD -MF Debug/PanelCPU.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelDisplay.cpp -o Debug/PanelDisplay.o -MD -MF Debug/PanelDisplay.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelFloppy.cpp -o Debug/PanelFloppy.o -MD -MF Debug/PanelFloppy.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelHD.cpp -o Debug/PanelHD.o -MD -MF Debug/PanelHD.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelInput.cpp -o Debug/PanelInput.o -MD -MF Debug/PanelInput.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelMisc.cpp -o Debug/PanelMisc.o -MD -MF Debug/PanelMisc.dep
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected '}' at end of input
+   }
+   ^
+  ../../osdep/gui/PanelDisplay.cpp: In member function 'void AmigaScreenActionListener::InitPanelDisplay(const _ConfigCategory&)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,1): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,3): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,5): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,7): error : expected primary-expression before '<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,13): error : found ':' in nested-name-specifier, expected '::'
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,9): error : 'HEAD' has not been declared
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,18): error : 'osdep' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,24): error : 'gui' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,28): error : 'PanelDisplay' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(119,5): error : 'lblFSRatio' was not declared in this scope
+       lblFSRatio = new gcn::Label("Fullscreen Ratio:");
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(122,5): error : 'sldFSRatio' was not declared in this scope
+       sldFSRatio = new gcn::Slider(0, 20);
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(129,5): error : 'lblFSRatioInfo' was not declared in this scope
+       lblFSRatioInfo = new gcn::Label("100%%");
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(131,5): error : 'chkAspect' was not declared in this scope
+       chkAspect = new gcn::UaeCheckBox("4/3 ratio shrink");
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,1): error : expected primary-expression before '==' token
+   =======
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,3): error : expected primary-expression before '==' token
+   =======
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,5): error : expected primary-expression before '==' token
+   =======
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,7): error : expected primary-expression before '=' token
+   =======
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(197,9): error : redeclaration of 'int posY'
+       int posY = 10;
+           ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(140,6): note :  'int posY' previously declared here
+    int posY = 10;
+        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,1): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,3): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,5): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,7): error : expected primary-expression before '>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,13): error : found ':' in nested-name-specifier, expected '::'
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,9): error : 'sdl2' has not been declared
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,18): error : 'od' was not declared in this scope
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,21): error : 'pandora' was not declared in this scope
+   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
+                       ^
+  ../../osdep/gui/PanelDisplay.cpp: In member function 'void AmigaScreenActionListener::RefreshPanelDisplay()':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,1): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,3): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,5): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,7): error : expected primary-expression before '<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,13): error : found ':' in nested-name-specifier, expected '::'
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,9): error : 'HEAD' has not been declared
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,18): error : 'osdep' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,24): error : 'gui' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,28): error : 'PanelDisplay' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
+                              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(269,23): error : expected ';' before ')' token
+       for(i=0; i<21; ++i)
+                         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected '}' at end of input
+   }
+   ^
+  ../../osdep/gui/PanelDisplay.cpp: At global scope:
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected unqualified-id at end of input
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelPaths.cpp -o Debug/PanelPaths.o -MD -MF Debug/PanelPaths.dep
+  make: *** [Debug/PanelDisplay.o] Error 1
+  make: *** Waiting for unfinished jobs....
+  ../../osdep/gui/PanelInput.cpp: In function 'void RefreshPanelInput()':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,1): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,3): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,5): error : expected primary-expression before '<<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,7): error : expected primary-expression before '<' token
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,13): error : found ':' in nested-name-specifier, expected '::'
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,9): error : 'HEAD' has not been declared
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,18): error : 'osdep' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,24): error : 'gui' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,28): error : 'PanelInput' was not declared in this scope
+   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+                              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(658,38): error : 'customControlMap' was not declared in this scope
+     cboA->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_HOME]));
+                                        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,1): error : expected primary-expression before '==' token
+   =======
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,3): error : expected primary-expression before '==' token
+   =======
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,5): error : expected primary-expression before '==' token
+   =======
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,7): error : expected primary-expression before '=' token
+   =======
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,1): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,3): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+     ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,5): error : expected primary-expression before '>>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,7): error : expected primary-expression before '>' token
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,13): error : found ':' in nested-name-specifier, expected '::'
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,9): error : 'sdl2' has not been declared
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,18): error : 'od' was not declared in this scope
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,21): error : 'pandora' was not declared in this scope
+   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+                       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(682,22): error : expected ';' before ')' token
+       for(i=0; i<4; ++i)
+                        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(690,1): error : expected '}' at end of input
+   }
+   ^
+  make: *** [Debug/PanelInput.o] Error 1
   -------------------------------------------------------------
   Command exited with code 2
   Executable: cmd.exe
   Arguments: /c "C:\SysGCC\raspberry\bin\make.exe" CONFIG=Debug -j8
   Directory: D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry
 VisualGDB : error : Command-line action failed
-EXEC : error : Build has failed. See the Output window for more details.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\VisualGDB.exe" /rebuild "D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\amiberry.vcxproj" "/solution:D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\amiberry.sln" "/config:Debug" "/platform:Win32"" exited with code 1.

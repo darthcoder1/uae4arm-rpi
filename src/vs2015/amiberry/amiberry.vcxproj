@@ -324,6 +324,7 @@
     <ClInclude Include="..\..\osdep\gui\UaeListBox.hpp" />
     <ClInclude Include="..\..\osdep\gui\UaeRadioButton.hpp" />
     <ClInclude Include="..\..\osdep\mp3decoder.h" />
+    <ClInclude Include="..\..\osdep\pandora_gfx.h" />
     <ClInclude Include="..\..\osdep\pandora_rp9.h" />
     <ClInclude Include="..\..\osdep\sysconfig.h" />
     <ClInclude Include="..\..\osdep\target.h" />

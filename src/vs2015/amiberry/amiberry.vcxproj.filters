@@ -898,5 +898,8 @@
     <ClInclude Include="..\..\archivers\zip\unzip.h">
       <Filter>Header files\archivers\zip</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\osdep\pandora_gfx.h">
+      <Filter>Header files\osdep</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
