@@ -43,7 +43,6 @@
 #ifdef USE_SDL
 #include <SDL.h>
 #include <iostream>
-//#include "gui_handling.h"
 #include "pandora_gfx.h"
 SDL_Window* sdlWindow;
 SDL_Renderer* renderer;
