@@ -13,9 +13,9 @@ OBJCOPY := C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-objcopy.exe
 
 #Additional flags
 PREPROCESSOR_MACROS := NDEBUG=1 RELEASE=1
-INCLUDE_DIRS := ../.. ../../archivers/7z ../../archivers/7z/Archive/7z ../../archivers/dms ../../archivers/lha ../../archivers/wrp ../../archivers/zip ../../include ../../jit ../../machdep ../../osdep ../../osdep/gui ../../sounddep ../../threaddep =/usr/include/SDL =/usr/include/libxml2 =/opt/vc/include =/opt/vc/include/interface/vmcs_host/linux =/opt/vc/include/interface/vcos/pthreads
-LIBRARY_DIRS := 
-LIBRARY_NAMES := 
+INCLUDE_DIRS := ../.. ../../archivers/7z ../../archivers/7z/Archive/7z ../../archivers/dms ../../archivers/lha ../../archivers/wrp ../../archivers/zip ../../include ../../jit ../../machdep ../../osdep ../../osdep/gui ../../sounddep ../../threaddep =/usr/include/SDL2 =/usr/include/libxml2 =/opt/vc/include =/opt/vc/include/interface/vmcs_host/linux =/opt/vc/include/interface/vcos/pthreads
+LIBRARY_DIRS := =/usr/local/lib ../../guisan
+LIBRARY_NAMES := SDL2 SDL2_image SDL2_ttf pthread m z png rt xml2 FLAC mpg123 dl guisan
 ADDITIONAL_LINKER_INPUTS := 
 MACOS_FRAMEWORKS := 
 LINUX_PACKAGES := 

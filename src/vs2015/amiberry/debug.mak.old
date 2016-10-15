@@ -13,9 +13,9 @@ OBJCOPY := C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-objcopy.exe
 
 #Additional flags
 PREPROCESSOR_MACROS := DEBUG=1
-INCLUDE_DIRS := ../.. ../../archivers/7z ../../archivers/7z/Archive/7z ../../archivers/dms ../../archivers/lha ../../archivers/wrp ../../archivers/zip ../../include ../../jit ../../machdep ../../osdep ../../osdep/gui ../../sounddep ../../threaddep =/usr/include/SDL =/usr/include/libxml2 =/opt/vc/include =/opt/vc/include/interface/vmcs_host/linux =/opt/vc/include/interface/vcos/pthreads
-LIBRARY_DIRS := =/opt/vc/lib
-LIBRARY_NAMES := bcm_host SDL SDL_image SDL_ttf pthread m z png rt xml2 FLAC mpg123 dl guichan guichan_sdl
+INCLUDE_DIRS := ../.. ../../archivers/7z ../../archivers/7z/Archive/7z ../../archivers/dms ../../archivers/lha ../../archivers/wrp ../../archivers/zip ../../include ../../jit ../../machdep ../../osdep ../../osdep/gui ../../sounddep ../../threaddep =/usr/include/SDL2 =/usr/include/libxml2 =/opt/vc/include =/opt/vc/include/interface/vmcs_host/linux =/opt/vc/include/interface/vcos/pthreads
+LIBRARY_DIRS := =/usr/local/lib ../../guisan
+LIBRARY_NAMES := SDL2 SDL2_image SDL2_ttf pthread m z png rt xml2 FLAC mpg123 dl guisan
 ADDITIONAL_LINKER_INPUTS := 
 MACOS_FRAMEWORKS := 
 LINUX_PACKAGES := 
@@ -24,7 +24,7 @@ CFLAGS := -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -
 CXXFLAGS := -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard
 ASFLAGS := -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard
 LDFLAGS := -Wl,-gc-sections
-COMMONFLAGS := -DHAVE_DISPMANX -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON
+COMMONFLAGS := -DDEBUG -DHAVE_DISPMANX -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON
 LINKER_SCRIPT := 
 
 START_GROUP := -Wl,--start-group

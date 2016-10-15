@@ -5,18 +5,12 @@ endif
 ifeq ($(PLATFORM),rpi3)
 	CPU_FLAGS += -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DUSE_ARMNEON
-	LDFLAGS += -lbcm_host
-	HAVE_SDL_DISPLAY = 1
 else ifeq ($(PLATFORM),rpi2)
 	CPU_FLAGS += -march=armv7-a -mfpu=neon-vfpv4 -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DUSE_ARMNEON
-	LDFLAGS += -lbcm_host
-	HAVE_SDL_DISPLAY = 1
 else ifeq ($(PLATFORM),rpi1)
 	CPU_FLAGS += -march=armv6zk -mfpu=vfp -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND
-	LDFLAGS += -lbcm_host
-	HAVE_SDL_DISPLAY = 1
 endif
 
 NAME   = uae4arm
@@ -35,7 +29,7 @@ PANDORA=1
 #GEN_PROFILE=1
 #USE_PROFILE=1
 
-DEFAULT_CFLAGS = $(CFLAGS) -I/usr/include/SDL2 -D_REENTRANT
+DEFAULT_CFLAGS = $(CFLAGS) `sdl2-config --cflags`
 
 MY_LDFLAGS = $(LDFLAGS)
 MY_LDFLAGS += -lSDL2 -lpthread -lz -lSDL2_image -lpng -lrt -lxml2 -lFLAC -lmpg123 -ldl
@@ -171,6 +165,7 @@ OBJS =	\
 	src/osdep/pandora.o \
 	src/osdep/pandora_filesys.o \
 	src/osdep/pandora_input.o \
+	src/osdep/pandora_gfx.o \
 	src/osdep/pandora_gui.o \
 	src/osdep/pandora_rp9.o \
 	src/osdep/pandora_mem.o \
@@ -210,15 +205,6 @@ endif
 
 ifdef DEBUG
 OBJS += src/trace.o
-endif
-
-ifeq ($(HAVE_DISPMANX), 1)
-OBJS += src/osdep/rasp_gfx.o
-MORE_CFLAGS += -DHAVE_DISPMANX
-endif
-
-ifeq ($(HAVE_SDL_DISPLAY), 1)
-OBJS += src/osdep/pandora_gfx.o
 endif
 
 OBJS += src/newcpu.o

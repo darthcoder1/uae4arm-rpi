@@ -42,27 +42,29 @@ int emulating = 0;
 
 extern int screen_is_picasso;
 
-struct gui_msg {
-  int num;
-  const char *msg;
+struct gui_msg
+{
+	int num;
+	const char *msg;
 };
-struct gui_msg gui_msglist[] = {
-  { NUMSG_NEEDEXT2,       "The software uses a non-standard floppy disk format. You may need to use a custom floppy disk image file instead of a standard one. This message will not appear again." },
-  { NUMSG_NOROM,          "Could not load system ROM, trying system ROM replacement." },
-  { NUMSG_NOROMKEY,       "Could not find system ROM key file." },
-  { NUMSG_KSROMCRCERROR,  "System ROM checksum incorrect. The system ROM image file may be corrupt." },
-  { NUMSG_KSROMREADERROR, "Error while reading system ROM." },
-  { NUMSG_NOEXTROM,       "No extended ROM found." },
-  { NUMSG_KS68EC020,      "The selected system ROM requires a 68EC020 or later CPU." },
-  { NUMSG_KS68020,        "The selected system ROM requires a 68020 or later CPU." },
-  { NUMSG_KS68030,        "The selected system ROM requires a 68030 CPU." },
-  { NUMSG_STATEHD,        "WARNING: Current configuration is not fully compatible with state saves." },
-  { NUMSG_KICKREP,        "You need to have a floppy disk (image file) in DF0: to use the system ROM replacement." },
-  { NUMSG_KICKREPNO,      "The floppy disk (image file) in DF0: is not compatible with the system ROM replacement functionality." },
-  { NUMSG_ROMNEED,        "One of the following system ROMs is required:\n\n%s\n\nCheck the System ROM path in the Paths panel and click Rescan ROMs." },
-  { NUMSG_EXPROMNEED,     "One of the following expansion boot ROMs is required:\n\n%s\n\nCheck the System ROM path in the Paths panel and click Rescan ROMs." },
+struct gui_msg gui_msglist[] =
+{
+	{ NUMSG_NEEDEXT2, "The software uses a non-standard floppy disk format. You may need to use a custom floppy disk image file instead of a standard one. This message will not appear again." },
+	{ NUMSG_NOROM, "Could not load system ROM, trying system ROM replacement." },
+	{ NUMSG_NOROMKEY, "Could not find system ROM key file." },
+	{ NUMSG_KSROMCRCERROR, "System ROM checksum incorrect. The system ROM image file may be corrupt." },
+	{ NUMSG_KSROMREADERROR, "Error while reading system ROM." },
+	{ NUMSG_NOEXTROM, "No extended ROM found." },
+	{ NUMSG_KS68EC020, "The selected system ROM requires a 68EC020 or later CPU." },
+	{ NUMSG_KS68020, "The selected system ROM requires a 68020 or later CPU." },
+	{ NUMSG_KS68030, "The selected system ROM requires a 68030 CPU." },
+	{ NUMSG_STATEHD, "WARNING: Current configuration is not fully compatible with state saves." },
+	{ NUMSG_KICKREP, "You need to have a floppy disk (image file) in DF0: to use the system ROM replacement." },
+	{ NUMSG_KICKREPNO, "The floppy disk (image file) in DF0: is not compatible with the system ROM replacement functionality." },
+	{ NUMSG_ROMNEED, "One of the following system ROMs is required:\n\n%s\n\nCheck the System ROM path in the Paths panel and click Rescan ROMs." },
+	{ NUMSG_EXPROMNEED, "One of the following expansion boot ROMs is required:\n\n%s\n\nCheck the System ROM path in the Paths panel and click Rescan ROMs." },
 
-  { -1, "" }
+	{ -1, "" }
 };
 
 std::vector<ConfigFileInfo*> ConfigFilesList;
@@ -585,7 +587,15 @@ void moveVertical(int value)
 		changed_prefs.pandora_vertical_offset = 16;
 }
 
-void gui_disk_image_change (int unitnum, const char *name, bool writeprotected)
+void gui_handle_events(void)
+{
+	const Uint8 *keystate = SDL_GetKeyboardState(NULL);
+
+	if (keystate[SDLK_LCTRL] && keystate[SDLK_LGUI] && (keystate[SDLK_RGUI] || keystate[SDLK_MENU]))
+		uae_reset(0, 1);
+}
+
+void gui_disk_image_change(int unitnum, const char *name, bool writeprotected)
 {
 }
 
@@ -640,27 +650,9 @@ void gui_led (int led, int on)
 
 void gui_flicker_led (int led, int unitnum, int status)
 {
-  static int hd_resetcounter;
-
-  switch(led)
-  {
-    case -1: // Reset HD and CD
-      gui_data.hd = 0;
-      break;
-      
-    case LED_POWER:
-      break;
-
-    case LED_HD:
-      if (status == 0) {
-  	    hd_resetcounter--;
-  	    if (hd_resetcounter > 0)
-  	      return;
-      }
-      gui_data.hd = status;
-      hd_resetcounter = 2;
-      break;
-  }
+#ifdef RASPBERRY
+   gui_led(led, status);
+#endif
 }
 
 
@@ -695,47 +687,47 @@ void notify_user (int msg)
 }
 
 
-int translate_message (int msg,	TCHAR *out)
+int translate_message(int msg, TCHAR *out)
 {
-  int i=0;
-  while(gui_msglist[i].num >= 0)
-  {
-    if(gui_msglist[i].num == msg)
-    {
-      strcpy(out, gui_msglist[i].msg);
-      return 1;
-    }
-    ++i;
-  }
-  return 0;
+	int i = 0;
+	while (gui_msglist[i].num >= 0)
+	{
+		if (gui_msglist[i].num == msg)
+		{
+			strcpy(out, gui_msglist[i].msg);
+			return 1;
+		}
+		++i;
+	}
+	return 0;
 }
 
 
 void FilterFiles(std::vector<std::string> *files, const char *filter[])
 {
-  for (int q=0; q<files->size(); q++)
-  {
-    std::string tmp = (*files)[q];
-    
-    bool bRemove = true;
-    for(int f=0; filter[f] != NULL && strlen(filter[f]) > 0; ++f)
-    {
-      if(tmp.size() >= strlen(filter[f]))
-      {
-        if(!strcasecmp(tmp.substr(tmp.size() - strlen(filter[f])).c_str(), filter[f]))
-        {
-          bRemove = false;
-          break;
-        }
-      }
-    }
-    
-    if(bRemove)
-    {
-      files->erase(files->begin() + q);
-      --q;
-    }
-  }  
+	for (int q = 0; q < files->size(); q++)
+	{
+		std::string tmp = (*files)[q];
+
+		bool bRemove = true;
+		for (int f = 0; filter[f] != NULL && strlen(filter[f]) > 0; ++f)
+		{
+			if (tmp.size() >= strlen(filter[f]))
+			{
+				if (!strcasecmp(tmp.substr(tmp.size() - strlen(filter[f])).c_str(), filter[f]))
+				{
+					bRemove = false;
+					break;
+				}
+			}
+		}
+
+		if (bRemove)
+		{
+			files->erase(files->begin() + q);
+			--q;
+		}
+	}
 }
 
 

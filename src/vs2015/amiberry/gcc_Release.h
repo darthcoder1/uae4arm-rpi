@@ -1038,9 +1038,6 @@
 #ifndef __BYTE_ORDER__
 #define __BYTE_ORDER__ __ORDER_LITTLE_ENDIAN__
 #endif
-#ifndef HAVE_DISPMANX
-#define HAVE_DISPMANX 1
-#endif
 #ifndef __FLT_DENORM_MIN__
 #define __FLT_DENORM_MIN__ 1.4012984643248171e-45F
 #endif
@@ -1213,7 +1210,7 @@
 
 // --- Include directories begin --- //
 //../..
-//c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/SDL
+//c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/SDL2
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/libxml2
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/opt/vc/include
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/opt/vc/include/interface/vmcs_host/linux
@@ -1238,7 +1235,7 @@
 //../../osdep/gui
 //../../sounddep
 //../../threaddep
-//=/usr/include/SDL
+//=/usr/include/SDL2
 //=/usr/include/libxml2
 //=/opt/vc/include
 //=/opt/vc/include/interface/vmcs_host/linux

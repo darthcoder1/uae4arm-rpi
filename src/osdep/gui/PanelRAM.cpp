@@ -1,7 +1,7 @@
-#include <guichan.hpp>
-#include <SDL/SDL_ttf.h>
-#include <guichan/sdl.hpp>
-#include "sdltruetypefont.hpp"
+#include <guisan.hpp>
+#include <SDL_ttf.h>
+#include <guisan/sdl.hpp>
+#include "guisan/sdl/sdltruetypefont.hpp"
 #include "SelectorEntry.hpp"
 #include "UaeRadioButton.hpp"
 #include "UaeDropDown.hpp"
@@ -15,7 +15,6 @@
 #include "uae.h"
 #include "gui.h"
 #include "gui_handling.h"
-
 
 static const char *ChipMem_list[] = { "512 K", "1 MB", "2 MB", "4 MB", "8 MB" };
 static const int ChipMem_values[] = { 0x080000, 0x100000, 0x200000, 0x400000, 0x800000 };
@@ -33,18 +32,18 @@ static gcn::Label* lblSlowsize;
 static gcn::Slider* sldSlowmem;
 static gcn::Label* lblFastmem;
 static gcn::Label* lblFastsize;
-static gcn::Slider* sldFastmem;  
+static gcn::Slider* sldFastmem;
 static gcn::Label* lblZ3mem;
 static gcn::Label* lblZ3size;
-static gcn::Slider* sldZ3mem;  
+static gcn::Slider* sldZ3mem;
 static gcn::Label* lblGfxmem;
 static gcn::Label* lblGfxsize;
-static gcn::Slider* sldGfxmem;  
+static gcn::Slider* sldGfxmem;
 
 
 class MemorySliderActionListener : public gcn::ActionListener
 {
-  public:
+public:
     void action(const gcn::ActionEvent& actionEvent)
     {
  	    if (actionEvent.getSource() == sldChipmem) {
@@ -175,79 +174,79 @@ void InitPanelRAM(const struct _ConfigCategory& category)
 
 void ExitPanelRAM(void)
 {
-  delete lblChipmem;
-  delete sldChipmem;
-  delete lblChipsize;
-  delete lblSlowmem;
-  delete sldSlowmem;
-  delete lblSlowsize;
-  delete lblFastmem;
-  delete sldFastmem;
-  delete lblFastsize;
-  delete lblZ3mem;
-  delete sldZ3mem;
-  delete lblZ3size;
-  delete lblGfxmem;
-  delete sldGfxmem;
-  delete lblGfxsize;
-  delete grpRAM;
-  delete memorySliderActionListener;
+    delete lblChipmem;
+    delete sldChipmem;
+    delete lblChipsize;
+    delete lblSlowmem;
+    delete sldSlowmem;
+    delete lblSlowsize;
+    delete lblFastmem;
+    delete sldFastmem;
+    delete lblFastsize;
+    delete lblZ3mem;
+    delete sldZ3mem;
+    delete lblZ3size;
+    delete lblGfxmem;
+    delete sldGfxmem;
+    delete lblGfxsize;
+    delete grpRAM;
+    delete memorySliderActionListener;
 }
 
 
 void RefreshPanelRAM(void)
 {
-  int i;
-  
-  for(i=0; i<5; ++i)
-  {
-    if(changed_prefs.chipmem_size == ChipMem_values[i])
-    {
-      sldChipmem->setValue(i);
-      lblChipsize->setCaption(ChipMem_list[i]);
-      break;
-    }
-  }
+    int i;
 
-  for(i=0; i<5; ++i)
-  {
-    if(changed_prefs.bogomem_size == SlowMem_values[i])
+    for (i = 0; i < 5; ++i)
     {
-      sldSlowmem->setValue(i);
-      lblSlowsize->setCaption(SlowMem_list[i]);
-      break;
+        if (changed_prefs.chipmem_size == ChipMem_values[i])
+        {
+            sldChipmem->setValue(i);
+            lblChipsize->setCaption(ChipMem_list[i]);
+            break;
+        }
     }
-  }
 
-  for(i=0; i<5; ++i)
-  {
-    if(changed_prefs.fastmem_size == FastMem_values[i])
+    for (i = 0; i < 5; ++i)
     {
-      sldFastmem->setValue(i);
-      lblFastsize->setCaption(FastMem_list[i]);
-      break;
+        if (changed_prefs.bogomem_size == SlowMem_values[i])
+        {
+            sldSlowmem->setValue(i);
+            lblSlowsize->setCaption(SlowMem_list[i]);
+            break;
+        }
     }
-  }
 
-  for(i=0; i<9; ++i)
-  {
-    if(changed_prefs.z3fastmem_size == FastMem_values[i])
+    for (i = 0; i < 5; ++i)
     {
-      sldZ3mem->setValue(i);
-      lblZ3size->setCaption(FastMem_list[i]);
-      break;
+        if (changed_prefs.fastmem_size == FastMem_values[i])
+        {
+            sldFastmem->setValue(i);
+            lblFastsize->setCaption(FastMem_list[i]);
+            break;
+        }
     }
-  }
-  sldZ3mem->setEnabled(!changed_prefs.address_space_24);
 
-  for(i=0; i<6; ++i)
-  {
-    if(changed_prefs.rtgmem_size == FastMem_values[i])
+    for (i = 0; i < 9; ++i)
     {
-      sldGfxmem->setValue(i);
-      lblGfxsize->setCaption(FastMem_list[i]);
-      break;
+        if (changed_prefs.z3fastmem_size == FastMem_values[i])
+        {
+            sldZ3mem->setValue(i);
+            lblZ3size->setCaption(FastMem_list[i]);
+            break;
+        }
     }
-  }
-  sldGfxmem->setEnabled(!changed_prefs.address_space_24);
+    sldZ3mem->setEnabled(!changed_prefs.address_space_24);
+
+    for (i = 0; i < 6; ++i)
+    {
+        if (changed_prefs.rtgmem_size == FastMem_values[i])
+        {
+            sldGfxmem->setValue(i);
+            lblGfxsize->setCaption(FastMem_list[i]);
+            break;
+        }
+    }
+    sldGfxmem->setEnabled(!changed_prefs.address_space_24);
 }

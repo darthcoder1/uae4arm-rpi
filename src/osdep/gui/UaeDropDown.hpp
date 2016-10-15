@@ -4,36 +4,36 @@
 #include <map>
 #include <string>
 
-#include "guichan/keylistener.hpp"
-#include "guichan/mouselistener.hpp"
-#include "guichan/platform.hpp"
-#include "guichan/widget.hpp"
-#include "guichan/widgets/dropdown.hpp"
+#include "guisan/keylistener.hpp"
+#include "guisan/mouselistener.hpp"
+#include "guisan/platform.hpp"
+#include "guisan/widget.hpp"
+#include "guisan/widgets/dropdown.hpp"
 
 
 namespace gcn
 {
-  class GCN_CORE_DECLSPEC UaeDropDown : public DropDown
-  {
-    public:
-      UaeDropDown(ListModel *listModel = NULL,
-                  ScrollArea *scrollArea = NULL,
-                  ListBox *listBox = NULL);
+class GCN_CORE_DECLSPEC UaeDropDown : public DropDown
+{
+public:
+    UaeDropDown(ListModel *listModel = NULL,
+                ScrollArea *scrollArea = NULL,
+                ListBox *listBox = NULL);
 
-      virtual ~UaeDropDown();
-      
-      virtual void keyPressed(KeyEvent& keyEvent);
+    virtual ~UaeDropDown();
 
-      virtual void setEnabled(bool enabled);
-      
-      void clearSelected(void);
+    virtual void keyPressed(KeyEvent& keyEvent);
 
-      bool isDroppedDown(void);
-    
-    protected:
-      Color mBackgroundColorBackup;
-      
-  };
+    virtual void setEnabled(bool enabled);
+
+    void clearSelected(void);
+
+    bool isDroppedDown(void);
+
+protected:
+    Color mBackgroundColorBackup;
+
+};
 }
 
 

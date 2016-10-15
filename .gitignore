@@ -5,7 +5,6 @@ kickstarts/*.rom
 *.lck
 *.000
 *.001
-*.suo
 *.opendb
 *.db
 *.npa00

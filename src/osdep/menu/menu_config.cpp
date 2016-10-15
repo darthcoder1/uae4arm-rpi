@@ -12,9 +12,9 @@
 #include "custom.h"
 #include "uae.h"
 #include "disk.h"
-#include "SDL.h"
+#include <SDL.h>
 
-extern int customControlMap[SDLK_LAST];
+//extern int customControlMap[SDLK_LAST];
 
 static int kickstart;
 
@@ -24,281 +24,281 @@ static int presetModeId = 2;
 static void SetPresetMode(int mode, struct uae_prefs *p)
 {
 	presetModeId = mode;
-	
-	switch(mode)
+
+	switch (mode)
 	{
-		case 0:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 768;
-			break;
-			
-		case 1:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 716;
-			break;
-			
-		case 2:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 640;
-			break;
+	case 0:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 768;
+		break;
 
-		case 3:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 600;
-			break;
-						
-		case 4:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 588;
-			break;
-						
-		case 5:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 570;
-			break;
-						
-		case 6:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 640;
-			break;
-						
-		case 7:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-		case 10:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 768;
-			break;
-			
-		case 11:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 716;
-			break;
-			
-		case 12:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 640;
-			break;
+	case 1:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 716;
+		break;
 
-		case 13:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 600;
-			break;
-						
-		case 14:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 588;
-			break;
-						
-		case 15:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 570;
-			break;
-						
-		case 16:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 640;
-			break;
-						
-		case 17:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
+	case 2:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 640;
+		break;
 
-		case 20:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 21:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 784;
-			break;
-			
-		case 22:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 704;
-			break;
+	case 3:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 600;
+		break;
 
-		case 23:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 660;
-			break;
-						
-		case 24:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 640;
-			break;
-						
-		case 25:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 624;
-			break;
-						
-		case 26:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 704;
-			break;
-						
-		case 27:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-		case 30:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 31:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 784;
-			break;
-			
-		case 32:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 704;
-			break;
+	case 4:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 588;
+		break;
 
-		case 33:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 660;
-			break;
-						
-		case 34:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 640;
-			break;
-						
-		case 35:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 624;
-			break;
-						
-		case 36:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 704;
-			break;
-						
-		case 37:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-		case 40:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 41:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 42:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 768;
-			break;
+	case 5:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 570;
+		break;
 
-		case 43:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 720;
-			break;
-						
-		case 44:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 704;
-			break;
-						
-		case 45:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 684;
-			break;
-						
-		case 46:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-		case 47:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
+	case 6:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 640;
+		break;
 
-		case 50:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 51:
-			p->gfx_size.height = 216;
-			p->gfx_size_fs.width = 800;
-			break;
-			
-		case 52:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 768;
-			break;
+	case 7:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
 
-		case 53:
-			p->gfx_size.height = 256;
-			p->gfx_size_fs.width = 720;
-			break;
-						
-		case 54:
-			p->gfx_size.height = 262;
-			p->gfx_size_fs.width = 704;
-			break;
-						
-		case 55:
-			p->gfx_size.height = 270;
-			p->gfx_size_fs.width = 684;
-			break;
-						
-		case 56:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-		case 57:
-			p->gfx_size.height = 200;
-			p->gfx_size_fs.width = 800;
-			break;
-						
-  	default:
-			p->gfx_size.height = 240;
-			p->gfx_size_fs.width = 640;
-			presetModeId = 2;
-			break;
+	case 10:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 768;
+		break;
+
+	case 11:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 716;
+		break;
+
+	case 12:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 640;
+		break;
+
+	case 13:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 600;
+		break;
+
+	case 14:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 588;
+		break;
+
+	case 15:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 570;
+		break;
+
+	case 16:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 640;
+		break;
+
+	case 17:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 20:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 21:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 784;
+		break;
+
+	case 22:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 23:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 660;
+		break;
+
+	case 24:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 640;
+		break;
+
+	case 25:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 624;
+		break;
+
+	case 26:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 27:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 30:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 31:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 784;
+		break;
+
+	case 32:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 33:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 660;
+		break;
+
+	case 34:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 640;
+		break;
+
+	case 35:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 624;
+		break;
+
+	case 36:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 37:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 40:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 41:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 42:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 768;
+		break;
+
+	case 43:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 720;
+		break;
+
+	case 44:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 45:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 684;
+		break;
+
+	case 46:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 47:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 50:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 51:
+		p->gfx_size.height = 216;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 52:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 768;
+		break;
+
+	case 53:
+		p->gfx_size.height = 256;
+		p->gfx_size_fs.width = 720;
+		break;
+
+	case 54:
+		p->gfx_size.height = 262;
+		p->gfx_size_fs.width = 704;
+		break;
+
+	case 55:
+		p->gfx_size.height = 270;
+		p->gfx_size_fs.width = 684;
+		break;
+
+	case 56:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	case 57:
+		p->gfx_size.height = 200;
+		p->gfx_size_fs.width = 800;
+		break;
+
+	default:
+		p->gfx_size.height = 240;
+		p->gfx_size_fs.width = 640;
+		presetModeId = 2;
+		break;
 	}
-	
-	switch(presetModeId / 10)
+
+	switch (presetModeId / 10)
 	{
-		case 0:
-			p->gfx_size.width = 320;
-			break;
+	case 0:
+		p->gfx_size.width = 320;
+		break;
 
-		case 1:
-			p->gfx_size.width = 640;
-			break;
+	case 1:
+		p->gfx_size.width = 640;
+		break;
 
-		case 2:
-			p->gfx_size.width = 352;
-			break;
+	case 2:
+		p->gfx_size.width = 352;
+		break;
 
-		case 3:
-			p->gfx_size.width = 704;
-			break;
+	case 3:
+		p->gfx_size.width = 704;
+		break;
 
-		case 4:
-			p->gfx_size.width = 384;
-			break;
+	case 4:
+		p->gfx_size.width = 384;
+		break;
 
-		case 5:
-			p->gfx_size.width = 768;
-			break;
+	case 5:
+		p->gfx_size.width = 768;
+		break;
 	}
 }
 
@@ -306,16 +306,16 @@ static void SetPresetMode(int mode, struct uae_prefs *p)
 static void SetDefaultMenuSettings(struct uae_prefs *p)
 {
 	kickstart = 1;
-	
+
 	SetPresetMode(2, p);
 }
 
 
-static void replace(char * str,char replace, char toreplace)
+static void replace(char * str, char replace, char toreplace)
 {
-	while(*str)
-	{	
-		if (*str==toreplace) *str=replace;
+	while (*str)
+	{
+		if (*str == toreplace) *str = replace;
 		str++;
 	}
 }
@@ -323,12 +323,12 @@ static void replace(char * str,char replace, char toreplace)
 
 int create_configfilename(char *dest, char *basename, int fromDir)
 {
-	char *p; 
+	char *p;
 	p = basename + strlen(basename) - 1;
-	while (*p != '/') 
+	while (*p != '/')
 		p--;
 	p++;
-	if(fromDir == 0)
+	if (fromDir == 0)
 	{
 		int len = strlen(p) + 1;
 		char filename[MAX_DPATH];
@@ -348,7 +348,7 @@ int create_configfilename(char *dest, char *basename, int fromDir)
 		snprintf(dest, MAX_DPATH, "%s/conf/%s.uae", start_path_data, p);
 		return 1;
 	}
-			
+
 	return 0;
 }
 
@@ -356,7 +356,7 @@ int create_configfilename(char *dest, char *basename, int fromDir)
 const char *kickstarts_rom_names[] = { "kick12.rom\0", "kick13.rom\0", "kick20.rom\0", "kick31.rom\0", "aros-amiga-m68k-rom.bin\0" };
 const char *extended_rom_names[] = { "\0", "\0", "\0", "\0", "aros-amiga-m68k-ext.bin\0" };
 const char *kickstarts_names[] = { "KS ROM v1.2\0", "KS ROM v1.3\0", "KS ROM v2.05\0", "KS ROM v3.1\0", "\0" };
-#ifdef ANDROIDSDL
+#ifdef ANDROID
 const char *af_kickstarts_rom_names[] = { "amiga-os-120.rom\0", "amiga-os-130.rom\0", "amiga-os-204.rom\0", "amiga-os-310-a1200.rom\0" };
 #endif
 
@@ -658,7 +658,7 @@ int loadconfig_old(struct uae_prefs *p, const char *orgpath)
 
 	SetPresetMode(presetModeId, p);
 
-  CheckKickstart(p);
+	CheckKickstart(p);
 
 	return 1;
 }

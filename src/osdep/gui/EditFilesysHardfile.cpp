@@ -1,7 +1,7 @@
-#include <guichan.hpp>
-#include <SDL/SDL_ttf.h>
+#include <guisan.hpp>
+#include <SDL_ttf.h>
 #include <guichan/sdl.hpp>
-#include "sdltruetypefont.hpp"
+#include "guisan/sdl/sdltruetypefont.hpp"
 #include "SelectorEntry.hpp"
 #include "UaeRadioButton.hpp"
 #include "UaeDropDown.hpp"
@@ -17,7 +17,7 @@
 #include "filesys.h"
 #include "gui.h"
 #include "gui_handling.h"
-
+#include "pandora_gfx.h"
 
 #define DIALOG_WIDTH 620
 #define DIALOG_HEIGHT 242
@@ -261,62 +261,58 @@ static void ExitEditFilesysHardfile(void)
 
 static void EditFilesysHardfileLoop(void)
 {
-  while(!dialogFinished)
-  {
-    SDL_Event event;
-    while(SDL_PollEvent(&event))
+    while(!dialogFinished)
     {
-      if (event.type == SDL_KEYDOWN)
-      {
-        switch(event.key.keysym.sym)
+        SDL_Event event;
+        while(SDL_PollEvent(&event))
         {
-          case SDLK_ESCAPE:
-            dialogFinished = true;
-            break;
-            
-          case SDLK_UP:
-            if(HandleNavigation(DIRECTION_UP))
-              continue; // Don't change value when enter ComboBox -> don't send event to control
-            break;
-            
-          case SDLK_DOWN:
-            if(HandleNavigation(DIRECTION_DOWN))
-              continue; // Don't change value when enter ComboBox -> don't send event to control
-            break;
+            if (event.type == SDL_KEYDOWN)
+            {
+                switch(event.key.keysym.sym)
+                {
+                case SDLK_ESCAPE:
+                    dialogFinished = true;
+                    break;
 
-          case SDLK_LEFT:
-            if(HandleNavigation(DIRECTION_LEFT))
-              continue; // Don't change value when enter Slider -> don't send event to control
-            break;
-            
-          case SDLK_RIGHT:
-            if(HandleNavigation(DIRECTION_RIGHT))
-              continue; // Don't change value when enter Slider -> don't send event to control
-            break;
+                case SDLK_UP:
+                    if(HandleNavigation(DIRECTION_UP))
+                        continue; // Don't change value when enter ComboBox -> don't send event to control
+                    break;
 
-          case SDLK_PAGEDOWN:
-          case SDLK_HOME:
-            event.key.keysym.sym = SDLK_RETURN;
-            gui_input->pushInput(event); // Fire key down
-            event.type = SDL_KEYUP;  // and the key up
-            break;
+                case SDLK_DOWN:
+                    if(HandleNavigation(DIRECTION_DOWN))
+                        continue; // Don't change value when enter ComboBox -> don't send event to control
+                    break;
+
+                case SDLK_LEFT:
+                    if(HandleNavigation(DIRECTION_LEFT))
+                        continue; // Don't change value when enter Slider -> don't send event to control
+                    break;
+
+                case SDLK_RIGHT:
+                    if(HandleNavigation(DIRECTION_RIGHT))
+                        continue; // Don't change value when enter Slider -> don't send event to control
+                    break;
+                }
+            }
+
+            //-------------------------------------------------
+            // Send event to guichan-controls
+            //-------------------------------------------------
+            gui_input->pushInput(event);
         }
-      }
 
-      //-------------------------------------------------
-      // Send event to guichan-controls
-      //-------------------------------------------------
-      gui_input->pushInput(event);
+        // Now we let the Gui object perform its logic.
+        uae_gui->logic();
+        // Now we let the Gui object draw itself.
+        uae_gui->draw();
+        // Update the texture from the surface
+	    SDL_UpdateTexture(texture, NULL, gui_screen->pixels, gui_screen->pitch);
+	    // Copy the texture on the renderer
+	    SDL_RenderCopy(renderer, texture, NULL, NULL);
+	    // Update the window surface (show the renderer)
+	    SDL_RenderPresent(renderer);
     }
-
-    // Now we let the Gui object perform its logic.
-    uae_gui->logic();
-    // Now we let the Gui object draw itself.
-    uae_gui->draw();
-    // Finally we update the screen.
-    wait_for_vsync();
-    SDL_Flip(gui_screen);
-  }  
 }
 
 

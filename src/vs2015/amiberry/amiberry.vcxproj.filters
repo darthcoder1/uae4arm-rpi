@@ -320,9 +320,6 @@
     <ClCompile Include="..\..\osdep\picasso96.cpp">
       <Filter>Source files\osdep</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\osdep\rasp_gfx.cpp">
-      <Filter>Source files\osdep</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\osdep\sigsegv_handler.cpp">
       <Filter>Source files\osdep</Filter>
     </ClCompile>
