@@ -1210,8 +1210,8 @@
 
 // --- Include directories begin --- //
 //../..
-//c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/SDL2
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/libxml2
+//c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/usr/include/SDL2
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/opt/vc/include
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/opt/vc/include/interface/vmcs_host/linux
 //c:\sysgcc\raspberry\bin\../arm-linux-gnueabihf/sysroot/opt/vc/include/interface/vcos/pthreads
@@ -1235,8 +1235,8 @@
 //../../osdep/gui
 //../../sounddep
 //../../threaddep
-//=/usr/include/SDL2
 //=/usr/include/libxml2
+//=/usr/include/SDL2
 //=/opt/vc/include
 //=/opt/vc/include/interface/vmcs_host/linux
 //=/opt/vc/include/interface/vcos/pthreads
