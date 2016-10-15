@@ -557,6 +557,9 @@
     <ClCompile Include="..\..\cpustbl.cpp">
       <Filter>Source files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\osdep\pandora_gfx.cpp">
+      <Filter>Source files\osdep</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\akiko.h">

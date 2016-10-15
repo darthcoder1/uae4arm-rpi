@@ -314,7 +314,7 @@ void target_default_options (struct uae_prefs *p, int type)
 
 	p->picasso96_modeflags = RGBFF_CLUT | RGBFF_R5G6B5 | RGBFF_R8G8B8A8;
 	
-	memset(customControlMap, 0, sizeof(customControlMap));
+//	memset(customControlMap, 0, sizeof(customControlMap));
 }
 
 

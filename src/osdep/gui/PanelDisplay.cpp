@@ -33,40 +33,41 @@ static gcn::UaeCheckBox* chkFrameskip;
 
 class AmigaScreenActionListener : public gcn::ActionListener
 {
-  public:
-    void action(const gcn::ActionEvent& actionEvent)
-    {
-      if (actionEvent.getSource() == sldAmigaWidth)
-      {
-        if(changed_prefs.gfx_size.width != amigawidth_values[(int)(sldAmigaWidth->getValue())])
-        {
-          changed_prefs.gfx_size.width = amigawidth_values[(int)(sldAmigaWidth->getValue())];
-          RefreshPanelDisplay();
-    	  }
-      }
-      else if (actionEvent.getSource() == sldAmigaHeight)
-      {
-        if(changed_prefs.gfx_size.height != amigaheight_values[(int)(sldAmigaHeight->getValue())])
-        {
-      		changed_prefs.gfx_size.height = amigaheight_values[(int)(sldAmigaHeight->getValue())];
-      		RefreshPanelDisplay();
-    	  }
-      }
-      else if (actionEvent.getSource() == sldVertPos) 
-      {
-        if(changed_prefs.pandora_vertical_offset != (int)(sldVertPos->getValue()))
-        {
-            if(changed_prefs.pandora_vertical_offset != (int)(sldVertPos->getValue()))
-            {
-                changed_prefs.pandora_vertical_offset = (int)(sldVertPos->getValue());
-                RefreshPanelDisplay();
-            }
-        }
-        else if (actionEvent.getSource() == chkFrameskip)
-        {
-            changed_prefs.gfx_framerate = chkFrameskip->isSelected() ? 1 : 0;
-        }
-    }
+public:
+	void action(const gcn::ActionEvent& actionEvent)
+	{
+		if (actionEvent.getSource() == sldAmigaWidth)
+		{
+			if (changed_prefs.gfx_size.width != amigawidth_values[(int)(sldAmigaWidth->getValue())])
+			{
+				changed_prefs.gfx_size.width = amigawidth_values[(int)(sldAmigaWidth->getValue())];
+				RefreshPanelDisplay();
+			}
+		}
+		else if (actionEvent.getSource() == sldAmigaHeight)
+		{
+			if (changed_prefs.gfx_size.height != amigaheight_values[(int)(sldAmigaHeight->getValue())])
+			{
+				changed_prefs.gfx_size.height = amigaheight_values[(int)(sldAmigaHeight->getValue())];
+				RefreshPanelDisplay();
+			}
+		}
+		else if (actionEvent.getSource() == sldVertPos) 
+		{
+			if (changed_prefs.pandora_vertical_offset != (int)(sldVertPos->getValue()))
+			{
+				if (changed_prefs.pandora_vertical_offset != (int)(sldVertPos->getValue()))
+				{
+					changed_prefs.pandora_vertical_offset = (int)(sldVertPos->getValue());
+					RefreshPanelDisplay();
+				}
+			}
+			else if (actionEvent.getSource() == chkFrameskip)
+			{
+				changed_prefs.gfx_framerate = chkFrameskip->isSelected() ? 1 : 0;
+			}
+		}
+	}
 };
 AmigaScreenActionListener* amigaScreenActionListener;
 

@@ -12,8 +12,8 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zExtract.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zHeader.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zHeader.o
-  The process cannot access the file because it is being used by another process.
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zIn.dep
+  The process cannot access the file because it is being used by another process.
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zIn.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zItem.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\7zItem.o
@@ -46,12 +46,18 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Bra86.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket_host.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\bsdsocket_host.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\calc.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\calc.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cda_play.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cda_play.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cdrom.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cdrom.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cfgfile.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cfgfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\charset.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\charset.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cia.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\cia.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\compemu.dep
@@ -78,6 +84,8 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crcio.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc_csum.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\crc_csum.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\CreateFilesysHardfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\CreateFilesysHardfile.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\custom.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\custom.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\dhuf.dep
@@ -88,6 +96,10 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\diskutil.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\drawing.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\drawing.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\EditFilesysHardfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\EditFilesysHardfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\EditFilesysVirtual.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\EditFilesysVirtual.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\events.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\events.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\expansion.dep
@@ -98,6 +110,8 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fpp.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_host.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_host.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_unix.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsdb_unix.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\fsusage.dep
@@ -110,12 +124,18 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\gfxutil.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile_pandora.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\hardfile_pandora.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\header.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\header.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\huf.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\huf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\InGameMessage.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\InGameMessage.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\inputdevice.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\inputdevice.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keyboard.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keyboard.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keybuf.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\keybuf.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\larc.dep
@@ -126,23 +146,113 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\lharc.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\LzmaDec.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\LzmaDec.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\main.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\main.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\main_window.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\main_window.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\maketbl.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\maketbl.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\memory.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\memory.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\menu_config.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\menu_config.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\mp3decoder.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\mp3decoder.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\native2amiga.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\native2amiga.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Navigation.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\Navigation.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\neon_helper.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\newcpu.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\newcpu.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\newcpu_common.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\newcpu_common.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_filesys.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_filesys.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_gui.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_gui.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_input.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_input.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_mem.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_mem.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_rp9.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pandora_rp9.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelChipset.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelChipset.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelConfig.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelConfig.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelCPU.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelCPU.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelDisplay.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelDisplay.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelFloppy.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelFloppy.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelHD.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelHD.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelInput.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelInput.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelMisc.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelMisc.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelPaths.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelPaths.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelRAM.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelRAM.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelROM.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelROM.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelSavestate.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelSavestate.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelSound.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\PanelSound.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pfile.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\pfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\picasso96.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\picasso96.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\readcpu.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\readcpu.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\rommgr.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\rommgr.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\savestate.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\savestate.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sdltruetypefont.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sdltruetypefont.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectFile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectFile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectFolder.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectFolder.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectorEntry.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\SelectorEntry.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\ShowMessage.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\ShowMessage.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\shuf.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\shuf.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sigsegv_handler.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sigsegv_handler.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\slide.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\slide.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sound.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\sound.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\statusline.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\statusline.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\support.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\support.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\tables.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\tables.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\traps.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\traps.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeCheckBox.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeCheckBox.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeDropDown.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeDropDown.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uaelib.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uaelib.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeListBox.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeListBox.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeRadioButton.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\UaeRadioButton.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uaeresource.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uaeresource.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uae_lha.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\uae_lha.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\unlzx.dep
@@ -165,6 +275,14 @@
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\u_rle.o
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\warp.dep
   Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\warp.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\writelog.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\writelog.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\zfile.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\zfile.o
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\zfile_archive.dep
+  Deleted file - D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Debug\zfile_archive.o
+  Updating D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Makefile
+  VisualGDB: Updated source file list in D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\Makefile. Enable verbose mode for more details.
   VisualGDB: Run "cmd.exe /c "C:\SysGCC\raspberry\bin\make.exe" CONFIG=Debug -j8" in directory "D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry" on local computer
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-gcc.exe -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -DDEBUG=1 -c ../../osdep/neon_helper.s -o Debug/neon_helper.o -MD -MF Debug/neon_helper.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../akiko.cpp -o Debug/akiko.o -MD -MF Debug/akiko.dep
@@ -184,6 +302,7 @@
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/crc_csum.cpp -o Debug/crc_csum.o -MD -MF Debug/crc_csum.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/getbits.cpp -o Debug/getbits.o -MD -MF Debug/getbits.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/maketbl.cpp -o Debug/maketbl.o -MD -MF Debug/maketbl.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/pfile.cpp -o Debug/pfile.o -MD -MF Debug/pfile.dep
   ../../archivers/dms/pfile.cpp: In function 'short unsigned int Process_Track(zfile*, zfile*, unsigned char*, unsigned char*, short unsigned int, short unsigned int, int, zfile**)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\dms\pfile.cpp(375,55): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       addextra(_T("BigFakeBootBlock"), extra, p, 512 * 22);
@@ -197,7 +316,6 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\dms\pfi
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\dms\pfile.cpp(403,49): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       addextra(_T("FILEID.DIZ"), extra, b2, unpklen);
                                                    ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/pfile.cpp -o Debug/pfile.o -MD -MF Debug/pfile.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/tables.cpp -o Debug/tables.o -MD -MF Debug/tables.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/u_deep.cpp -o Debug/u_deep.o -MD -MF Debug/u_deep.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/dms/u_heavy.cpp -o Debug/u_heavy.o -MD -MF Debug/u_heavy.dep
@@ -213,8 +331,8 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\dms\pfi
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/lhamaketbl.cpp -o Debug/lhamaketbl.o -MD -MF Debug/lhamaketbl.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/lharc.cpp -o Debug/lharc.o -MD -MF Debug/lharc.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/shuf.cpp -o Debug/shuf.o -MD -MF Debug/shuf.dep
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(29,28): warning : multi-character character constant [-Wmultichar]
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/slide.cpp -o Debug/slide.o -MD -MF Debug/slide.dep
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(29,28): warning : multi-character character constant [-Wmultichar]
        zv = zvolume_alloc(zf, ArchiveFormatLHA, NULL, NULL);
                               ^
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/uae_lha.cpp -o Debug/uae_lha.o -MD -MF Debug/uae_lha.dep
@@ -232,10 +350,10 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lha\uae_lha.cpp(19,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/util.cpp -o Debug/util.o -MD -MF Debug/util.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\archivers\lzx\unlzx.cpp(758,31): warning : multi-character character constant [-Wmultichar]
     zv = zvolume_alloc (in_file, ArchiveFormatLZX, NULL, NULL);
                                  ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lha/util.cpp -o Debug/util.o -MD -MF Debug/util.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/lzx/unlzx.cpp -o Debug/unlzx.o -MD -MF Debug/unlzx.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/wrp/warp.cpp -o Debug/warp.o -MD -MF Debug/warp.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../archivers/zip/unzip.cpp -o Debug/unzip.o -MD -MF Debug/unzip.dep
@@ -331,11 +449,11 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\blkdev.cpp(823,94
                                                                                                 ^
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cdrom.cpp -o Debug/cdrom.o -MD -MF Debug/cdrom.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cfgfile.cpp -o Debug/cfgfile.o -MD -MF Debug/cfgfile.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cia.cpp -o Debug/cia.o -MD -MF Debug/cia.dep
   ../../blkdev_cdimage.cpp: In function 'device_info* info_device(int, device_info*, int, int)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\blkdev_cdimage.cpp(1842,14): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
     di->backend = _T("IMAGE");
                 ^
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cia.cpp -o Debug/cia.o -MD -MF Debug/cia.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpudefs.cpp -o Debug/cpudefs.o -MD -MF Debug/cpudefs.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpuemu_0.cpp -o Debug/cpuemu_0.o -MD -MF Debug/cpuemu_0.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../cpuemu_11.cpp -o Debug/cpuemu_11.o -MD -MF Debug/cpuemu_11.dep
@@ -473,6 +591,7 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\jit\compemu_suppo
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../main.cpp -o Debug/main.o -MD -MF Debug/main.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../memory.cpp -o Debug/memory.o -MD -MF Debug/memory.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../native2amiga.cpp -o Debug/native2amiga.o -MD -MF Debug/native2amiga.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../newcpu.cpp -o Debug/newcpu.o -MD -MF Debug/newcpu.dep
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(423,31): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
    static uae_char *kickstring = "exec.library";
                                  ^
@@ -483,10 +602,8 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,10
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\memory.cpp(553,101): warning : deprecated conversion from string constant to 'uae_char* {aka char*}' [-Wwrite-strings]
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../newcpu.cpp -o Debug/newcpu.o -MD -MF Debug/newcpu.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../newcpu_common.cpp -o Debug/newcpu_common.o -MD -MF Debug/newcpu_common.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/bsdsocket_host.cpp -o Debug/bsdsocket_host.o -MD -MF Debug/bsdsocket_host.dep
-  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/cda_play.cpp -o Debug/cda_play.o -MD -MF Debug/cda_play.dep
   ../../newcpu.cpp: In function 'void mmu_op30fake_pmove(uaecptr, uae_u32, uae_u16, uaecptr)':
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(913,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       reg = _T("TC");
@@ -506,6 +623,7 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(951,8)
 D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(959,8): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
       reg = _T("TT1");
           ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/cda_play.cpp -o Debug/cda_play.o -MD -MF Debug/cda_play.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/charset.cpp -o Debug/charset.o -MD -MF Debug/charset.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/fsdb_host.cpp -o Debug/fsdb_host.o -MD -MF Debug/fsdb_host.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/CreateFilesysHardfile.cpp -o Debug/CreateFilesysHardfile.o -MD -MF Debug/CreateFilesysHardfile.dep
@@ -522,208 +640,752 @@ D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\newcpu.cpp(959,8)
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelHD.cpp -o Debug/PanelHD.o -MD -MF Debug/PanelHD.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelInput.cpp -o Debug/PanelInput.o -MD -MF Debug/PanelInput.dep
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelMisc.cpp -o Debug/PanelMisc.o -MD -MF Debug/PanelMisc.dep
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected '}' at end of input
-   }
-   ^
-  ../../osdep/gui/PanelDisplay.cpp: In member function 'void AmigaScreenActionListener::InitPanelDisplay(const _ConfigCategory&)':
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,1): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,3): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,5): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,7): error : expected primary-expression before '<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,13): error : found ':' in nested-name-specifier, expected '::'
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-               ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,9): error : 'HEAD' has not been declared
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-           ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,18): error : 'osdep' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                    ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,24): error : 'gui' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(76,28): error : 'PanelDisplay' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                              ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(119,5): error : 'lblFSRatio' was not declared in this scope
-       lblFSRatio = new gcn::Label("Fullscreen Ratio:");
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(122,5): error : 'sldFSRatio' was not declared in this scope
-       sldFSRatio = new gcn::Slider(0, 20);
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(129,5): error : 'lblFSRatioInfo' was not declared in this scope
-       lblFSRatioInfo = new gcn::Label("100%%");
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(131,5): error : 'chkAspect' was not declared in this scope
-       chkAspect = new gcn::UaeCheckBox("4/3 ratio shrink");
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,1): error : expected primary-expression before '==' token
-   =======
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,3): error : expected primary-expression before '==' token
-   =======
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,5): error : expected primary-expression before '==' token
-   =======
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(153,7): error : expected primary-expression before '=' token
-   =======
-         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(197,9): error : redeclaration of 'int posY'
-       int posY = 10;
-           ^
-  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(140,6): note :  'int posY' previously declared here
-    int posY = 10;
-        ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,1): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,3): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,5): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,7): error : expected primary-expression before '>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,13): error : found ':' in nested-name-specifier, expected '::'
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-               ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,9): error : 'sdl2' has not been declared
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-           ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,18): error : 'od' was not declared in this scope
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-                    ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(210,21): error : 'pandora' was not declared in this scope
-   >>>>>>> sdl2:src/od-pandora/gui/PanelDisplay.cpp
-                       ^
-  ../../osdep/gui/PanelDisplay.cpp: In member function 'void AmigaScreenActionListener::RefreshPanelDisplay()':
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,1): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,3): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,5): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,7): error : expected primary-expression before '<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,13): error : found ':' in nested-name-specifier, expected '::'
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-               ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,9): error : 'HEAD' has not been declared
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-           ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,18): error : 'osdep' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                    ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,24): error : 'gui' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(267,28): error : 'PanelDisplay' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelDisplay.cpp
-                              ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(269,23): error : expected ';' before ')' token
-       for(i=0; i<21; ++i)
-                         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected '}' at end of input
-   }
-   ^
-  ../../osdep/gui/PanelDisplay.cpp: At global scope:
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelDisplay.cpp(293,1): error : expected unqualified-id at end of input
   C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelPaths.cpp -o Debug/PanelPaths.o -MD -MF Debug/PanelPaths.dep
-  make: *** [Debug/PanelDisplay.o] Error 1
-  make: *** Waiting for unfinished jobs....
-  ../../osdep/gui/PanelInput.cpp: In function 'void RefreshPanelInput()':
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,1): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,3): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,5): error : expected primary-expression before '<<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelRAM.cpp -o Debug/PanelRAM.o -MD -MF Debug/PanelRAM.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelROM.cpp -o Debug/PanelROM.o -MD -MF Debug/PanelROM.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelSavestate.cpp -o Debug/PanelSavestate.o -MD -MF Debug/PanelSavestate.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/PanelSound.cpp -o Debug/PanelSound.o -MD -MF Debug/PanelSound.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/sdltruetypefont.cpp -o Debug/sdltruetypefont.o -MD -MF Debug/sdltruetypefont.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/SelectFile.cpp -o Debug/SelectFile.o -MD -MF Debug/SelectFile.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/SelectFolder.cpp -o Debug/SelectFolder.o -MD -MF Debug/SelectFolder.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/SelectorEntry.cpp -o Debug/SelectorEntry.o -MD -MF Debug/SelectorEntry.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/ShowMessage.cpp -o Debug/ShowMessage.o -MD -MF Debug/ShowMessage.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/UaeCheckBox.cpp -o Debug/UaeCheckBox.o -MD -MF Debug/UaeCheckBox.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/UaeDropDown.cpp -o Debug/UaeDropDown.o -MD -MF Debug/UaeDropDown.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/UaeListBox.cpp -o Debug/UaeListBox.o -MD -MF Debug/UaeListBox.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/gui/UaeRadioButton.cpp -o Debug/UaeRadioButton.o -MD -MF Debug/UaeRadioButton.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/hardfile_pandora.cpp -o Debug/hardfile_pandora.o -MD -MF Debug/hardfile_pandora.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/keyboard.cpp -o Debug/keyboard.o -MD -MF Debug/keyboard.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/menu/menu_config.cpp -o Debug/menu_config.o -MD -MF Debug/menu_config.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/mp3decoder.cpp -o Debug/mp3decoder.o -MD -MF Debug/mp3decoder.dep
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\hardfile_pandora.cpp(40,52): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   static TCHAR *hdz[] = { _T("hdz"), _T("zip"), NULL };
+                                                      ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\hardfile_pandora.cpp(40,52): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora.cpp -o Debug/pandora.o -MD -MF Debug/pandora.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_filesys.cpp -o Debug/pandora_filesys.o -MD -MF Debug/pandora_filesys.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_gfx.cpp -o Debug/pandora_gfx.o -MD -MF Debug/pandora_gfx.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_gui.cpp -o Debug/pandora_gui.o -MD -MF Debug/pandora_gui.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_input.cpp -o Debug/pandora_input.o -MD -MF Debug/pandora_input.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_mem.cpp -o Debug/pandora_mem.o -MD -MF Debug/pandora_mem.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/pandora_rp9.cpp -o Debug/pandora_rp9.o -MD -MF Debug/pandora_rp9.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/picasso96.cpp -o Debug/picasso96.o -MD -MF Debug/picasso96.dep
+  ../../osdep/pandora_input.cpp: In function 'char* get_mouse_friendlyname(int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(48,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "Nubs as mouse";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(50,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "dPad as mouse";
+                  ^
+  ../../osdep/pandora_input.cpp: In function 'char* get_mouse_uniquename(int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(56,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "MOUSE0";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(58,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "MOUSE1";
+                  ^
+  ../../osdep/pandora_input.cpp: In function 'char* get_joystick_friendlyname(int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(341,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "dPad as joystick";
+                  ^
+  ../../osdep/pandora_input.cpp: In function 'char* get_joystick_uniquename(int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(349,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY0";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(351,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY1";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(353,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY2";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(355,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY3";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(357,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY4";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(359,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY5";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(361,16): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+           return "JOY6";
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_input.cpp(363,12): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+       return "JOY7";
+              ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/sigsegv_handler.cpp -o Debug/sigsegv_handler.o -MD -MF Debug/sigsegv_handler.dep
+  ../../p96_blit.cpp: In function 'void BLIT_TRUE_24(unsigned int, unsigned int, uae_u8*, uae_u8*, int, int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(818,26): warning : large integer implicitly truncated to unsigned type [-Woverflow]
+   #define BLT_FUNC(s,d) *d = 0xffffffff
+                            ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\p96_blit.cpp(28,4): note :  in expansion of macro 'BLT_FUNC'
+      BLT_FUNC (src_8, dst_8);
+      ^
+  ../../p96_blit.cpp: In function 'void BLIT_TRUE_16(unsigned int, unsigned int, uae_u8*, uae_u8*, int, int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(869,26): warning : large integer implicitly truncated to unsigned type [-Woverflow]
+   #define BLT_FUNC(s,d) *d = 0xffffffff
+                            ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\p96_blit.cpp(67,5): note :  in expansion of macro 'BLT_FUNC'
+       BLT_FUNC (src_16, dst_16);
        ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,7): error : expected primary-expression before '<' token
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(869,26): warning : large integer implicitly truncated to unsigned type [-Woverflow]
+   #define BLT_FUNC(s,d) *d = 0xffffffff
+                            ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\p96_blit.cpp(118,4): note :  in expansion of macro 'BLT_FUNC'
+      BLT_FUNC (src_16, dst_16);
+      ^
+  ../../p96_blit.cpp: In function 'void BLIT_TRUE_8(unsigned int, unsigned int, uae_u8*, uae_u8*, int, int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(920,26): warning : large integer implicitly truncated to unsigned type [-Woverflow]
+   #define BLT_FUNC(s,d) *d = 0xffffffff
+                            ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\p96_blit.cpp(75,6): note :  in expansion of macro 'BLT_FUNC'
+        BLT_FUNC (src_8, dst_8);
+        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(920,26): warning : large integer implicitly truncated to unsigned type [-Woverflow]
+   #define BLT_FUNC(s,d) *d = 0xffffffff
+                            ^
+  D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\p96_blit.cpp(126,5): note :  in expansion of macro 'BLT_FUNC'
+       BLT_FUNC (src_8, dst_8);
+       ^
+  ../../osdep/picasso96.cpp: In function 'uaecptr uaegfx_card_install(TrapContext*, uae_u32)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\picasso96.cpp(3268,10): warning : converting to non-pointer type 'uaecptr {aka unsigned int}' from NULL [-Wconversion-null]
+     return NULL;
+            ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\sigsegv_handler.cpp(42): warning : "DEBUG" redefined
+   #define DEBUG 0
+   ^
+  <command-line>:0:0: note: this is the location of the previous definition
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../osdep/writelog.cpp -o Debug/writelog.o -MD -MF Debug/writelog.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../readcpu.cpp -o Debug/readcpu.o -MD -MF Debug/readcpu.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../rommgr.cpp -o Debug/rommgr.o -MD -MF Debug/rommgr.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../savestate.cpp -o Debug/savestate.o -MD -MF Debug/savestate.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../sounddep/sound.cpp -o Debug/sound.o -MD -MF Debug/sound.dep
+  ../../osdep/pandora_gui.cpp: In function 'void RescanROMs()':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\pandora_gui.cpp(294,23): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+      addrom (rd, ":AROS");
+                         ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../statusline.cpp -o Debug/statusline.o -MD -MF Debug/statusline.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../traps.cpp -o Debug/traps.o -MD -MF Debug/traps.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../uaelib.cpp -o Debug/uaelib.o -MD -MF Debug/uaelib.dep
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(101,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   };
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(101,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   };
+   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\rommgr.cpp(326,1): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../uaeresource.cpp -o Debug/uaeresource.o -MD -MF Debug/uaeresource.dep
+  ../../savestate.cpp: In function 'void save_rams(zfile*, int)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(643,43): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CRAM"), comp);
+                                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(645,44): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("BRAM"), comp);
+                                              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(648,43): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("FRAM"), comp);
+                                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(650,44): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("ZRAM"), comp);
+                                              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(652,43): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("BORO"), comp);
+                                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(656,43): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("PRAM"), comp);
+                                             ^
+  ../../savestate.cpp: In function 'int save_state_internal(zfile*, const char*, int, bool)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(678,50): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, header, dst-header, _T("ASF "), 0);
+                                                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(681,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CPU "), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(685,41): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("CPUX"), 0);
+                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(690,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("FPU "), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(714,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("DISK"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(718,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CHIP"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(722,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CHPX"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(726,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("BLTX"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(730,41): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("BLIT"), 0);
+                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(735,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CINP"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(739,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("AGAC"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(759,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CIAA"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(763,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CIAB"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(767,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("KEYB"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(772,41): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("EXPA"), 0);
+                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(777,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("P96 "), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(785,41): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("ROM "), 0);
+                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(791,40): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    save_chunk (f, dst, len, _T("CD32"), 0);
+                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(798,41): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+     save_chunk (f, dst, len, _T("FSYC"), 0);
+                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\savestate.cpp(802,43): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+       save_chunk (f, dst, len, _T("FSYS"), 0);
+                                             ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../zfile.cpp -o Debug/zfile.o -MD -MF Debug/zfile.dep
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -std=gnu++14 -ggdb -ffunction-sections -O0 -fuse-ld=gold -fdiagnostics-color=auto -mstructure-size-boundary=32 -falign-functions=32 -pipe -fexceptions -fpermissive -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON -I../.. -I../../archivers/7z -I../../archivers/7z/Archive/7z -I../../archivers/dms -I../../archivers/lha -I../../archivers/wrp -I../../archivers/zip -I../../include -I../../jit -I../../machdep -I../../osdep -I../../osdep/gui -I../../sounddep -I../../threaddep -I=/usr/include/SDL2 -I=/usr/include/libxml2 -I=/opt/vc/include -I=/opt/vc/include/interface/vmcs_host/linux -I=/opt/vc/include/interface/vcos/pthreads -DDEBUG=1  -c ../../zfile_archive.cpp -o Debug/zfile_archive.o -MD -MF Debug/zfile_archive.dep
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(54,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatZIP:
          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,13): error : found ':' in nested-name-specifier, expected '::'
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-               ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,9): error : 'HEAD' has not been declared
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-           ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,18): error : 'osdep' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-                    ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,24): error : 'gui' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-                          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(656,28): error : 'PanelInput' was not declared in this scope
-   <<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-                              ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(658,38): error : 'customControlMap' was not declared in this scope
-     cboA->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_HOME]));
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(59,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormat7Zip:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(69,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatLHA:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(74,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatLZX:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(78,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatPLAIN:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(81,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatADF:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(84,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatRDB:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(87,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatTAR:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(90,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatFAT:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(280,25): warning : multi-character character constant [-Wmultichar]
+    zv = zvolume_alloc (z, ArchiveFormatTAR, NULL, NULL);
+                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(329,15): warning : multi-character character constant [-Wmultichar]
+    zv->method = ArchiveFormatTAR;
+                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(364,25): warning : multi-character character constant [-Wmultichar]
+     zv = zvolume_alloc(z, ArchiveFormatZIP, NULL, NULL);
+                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(405,16): warning : multi-character character constant [-Wmultichar]
+     zv->method = ArchiveFormatZIP;
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(592,26): warning : multi-character character constant [-Wmultichar]
+     zv = zvolume_alloc (z, ArchiveFormat7Zip, ctx, NULL);
+                            ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(616,16): warning : multi-character character constant [-Wmultichar]
+     zv->method = ArchiveFormat7Zip;
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1038,25): warning : multi-character character constant [-Wmultichar]
+     zv = zvolume_alloc(z, ArchiveFormatPLAIN, NULL, NULL);
+                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1369,38): warning : multi-character character constant [-Wmultichar]
+     if ((adf->dostype & 0xffffff00) == 'DOS\0') {
                                         ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,1): error : expected primary-expression before '==' token
-   =======
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,3): error : expected primary-expression before '==' token
-   =======
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,5): error : expected primary-expression before '==' token
-   =======
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(668,7): error : expected primary-expression before '=' token
-   =======
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1414,27): warning : multi-character character constant [-Wmultichar]
+      zv = zvolume_alloc (z, ArchiveFormatADF, NULL, NULL);
+                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1415,17): warning : multi-character character constant [-Wmultichar]
+      zv->method = ArchiveFormatADF;
+                   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1421,45): warning : multi-character character constant [-Wmultichar]
+     } else if ((adf->dostype & 0xffffff00) == 'SFS\0') {
+                                               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1434,26): warning : multi-character character constant [-Wmultichar]
+         if (gl (adf, 0) != 'OBJC')
+                            ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1441,26): warning : multi-character character constant [-Wmultichar]
+         if (gl (adf, 0) != 'OBJC')
+                            ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1457,27): warning : multi-character character constant [-Wmultichar]
+      zv = zvolume_alloc (z, ArchiveFormatADF, NULL, NULL);
+                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1458,17): warning : multi-character character constant [-Wmultichar]
+      zv->method = ArchiveFormatADF;
+                   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1552,38): warning : multi-character character constant [-Wmultichar]
+     if ((adf->dostype & 0xffffff00) == 'DOS\0') {
+                                        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1578,45): warning : multi-character character constant [-Wmultichar]
+     } else if ((adf->dostype & 0xffffff00) == 'SFS\0') {
+                                               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1676,25): warning : multi-character character constant [-Wmultichar]
+    zv = zvolume_alloc (z, ArchiveFormatRDB, NULL, NULL);
+                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1746,15): warning : multi-character character constant [-Wmultichar]
+    zv->method = ArchiveFormatRDB;
+                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2009,25): warning : multi-character character constant [-Wmultichar]
+    zv = zvolume_alloc (z, ArchiveFormatFAT, NULL, NULL);
+                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2011,15): warning : multi-character character constant [-Wmultichar]
+    zv->method = ArchiveFormatFAT;
+                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2065,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatZIP:
          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,1): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-   ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,3): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-     ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,5): error : expected primary-expression before '>>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-       ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,7): error : expected primary-expression before '>' token
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2070,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormat7Zip:
          ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,13): error : found ':' in nested-name-specifier, expected '::'
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-               ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,9): error : 'sdl2' has not been declared
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-           ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,18): error : 'od' was not declared in this scope
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
-                    ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(680,21): error : 'pandora' was not declared in this scope
-   >>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2080,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatLHA:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2083,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatADF:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2086,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatTAR:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2107,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatZIP:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2124,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatZIP:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2129,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormat7Zip:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2139,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatLHA:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2144,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatLZX:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2148,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatPLAIN:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2151,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatADF:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2154,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatRDB:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2157,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatFAT:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2160,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatDIR:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2163,7): warning : multi-character character constant [-Wmultichar]
+    case ArchiveFormatTAR:
+         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,2): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
+    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,21): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
                        ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(682,22): error : expected ';' before ')' token
-       for(i=0; i<4; ++i)
-                        ^
-D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\osdep\gui\PanelInput.cpp(690,1): error : expected '}' at end of input
-   }
-   ^
-  make: *** [Debug/PanelInput.o] Error 1
-  -------------------------------------------------------------
-  Command exited with code 2
-  Executable: cmd.exe
-  Arguments: /c "C:\SysGCC\raspberry\bin\make.exe" CONFIG=Debug -j8
-  Directory: D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry
-VisualGDB : error : Command-line action failed
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\VisualGDB.exe" /rebuild "D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\amiberry.vcxproj" "/solution:D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\amiberry.sln" "/config:Debug" "/platform:Win32"" exited with code 1.
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,39): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
+                                         ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,57): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
+                                                           ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,75): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
+                                                                             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1106,93): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormat7Zip, ArchiveFormatRAR, ArchiveFormatZIP, ArchiveFormatLHA, ArchiveFormatLHA, ArchiveFormatLZX,
+                                                                                               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1107,2): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatTAR
+    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1107,20): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatTAR
+                      ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1107,38): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatTAR
+                                        ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1107,56): warning : multi-character character constant [-Wmultichar]
+    ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatADF, ArchiveFormatTAR
+                                                          ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1131,15): warning : multi-character character constant [-Wmultichar]
+          return ArchiveFormatZIP;
+                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1138,15): warning : multi-character character constant [-Wmultichar]
+          return ArchiveFormat7Zip;
+                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1143,12): warning : multi-character character constant [-Wmultichar]
+       return ArchiveFormatRAR;
+              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1148,16): warning : multi-character character constant [-Wmultichar]
+           return ArchiveFormatLHA;
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1153,16): warning : multi-character character constant [-Wmultichar]
+           return ArchiveFormatLZX;
+                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1160,14): warning : multi-character character constant [-Wmultichar]
+         return ArchiveFormatADF;
+                ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1162,12): warning : multi-character character constant [-Wmultichar]
+       return ArchiveFormatFAT;
+              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1167,12): warning : multi-character character constant [-Wmultichar]
+       return ArchiveFormatFAT;
+              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1173,14): warning : multi-character character constant [-Wmultichar]
+         return ArchiveFormatADF;
+                ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1175,14): warning : multi-character character constant [-Wmultichar]
+         return ArchiveFormatADF;
+                ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1177,12): warning : multi-character character constant [-Wmultichar]
+       return ArchiveFormatRDB;
+              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1179,12): warning : multi-character character constant [-Wmultichar]
+       return ArchiveFormatFAT;
+              ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1217,50): warning : multi-character character constant [-Wmultichar]
+           return archive_access_select (parent, z, ArchiveFormat7Zip, dodefault, retcode, index);
+                                                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1219,50): warning : multi-character character constant [-Wmultichar]
+           return archive_access_select (parent, z, ArchiveFormatZIP, dodefault, retcode, index);
+                                                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1221,50): warning : multi-character character constant [-Wmultichar]
+           return archive_access_select (parent, z, ArchiveFormatLHA, dodefault, retcode, index);
+                                                    ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1223,49): warning : multi-character character constant [-Wmultichar]
+          return archive_access_select (parent, z, ArchiveFormatLZX, dodefault, retcode, index);
+                                                   ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1225,46): warning : multi-character character constant [-Wmultichar]
+       return archive_access_select (parent, z, ArchiveFormatRAR, dodefault, retcode, index);
+                                                ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1227,46): warning : multi-character character constant [-Wmultichar]
+       return archive_access_select (parent, z, ArchiveFormatTAR, dodefault, retcode, index);
+                                                ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1301,48): warning : multi-character character constant [-Wmultichar]
+         return archive_access_select (parent, z, ArchiveFormatZIP, dodefault, retcode, index);
+                                                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1303,45): warning : multi-character character constant [-Wmultichar]
+      return archive_access_select (parent, z, ArchiveFormatRAR, dodefault, retcode, index);
+                                               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1305,48): warning : multi-character character constant [-Wmultichar]
+         return archive_access_select (parent, z, ArchiveFormatLZX, dodefault, retcode, index);
+                                                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1307,47): warning : multi-character character constant [-Wmultichar]
+        return archive_access_select (parent, z, ArchiveFormatLHA, dodefault, retcode, index);
+                                                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1311,47): warning : multi-character character constant [-Wmultichar]
+        return archive_access_select (parent, z, ArchiveFormatADF, dodefault, retcode, index);
+                                                 ^
+  ../../zfile_archive.cpp: In function 'zvolume* archive_directory_rdb(zfile*)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(1739,11): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    zai.name = _T("rdb_dump.dat");
+             ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1313,47): warning : multi-character character constant [-Wmultichar]
+        return archive_access_select (parent, z, ArchiveFormatADF, dodefault, retcode, index);
+                                                 ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1315,45): warning : multi-character character constant [-Wmultichar]
+      return archive_access_select (parent, z, ArchiveFormatFAT, dodefault, retcode, index);
+                                               ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(1327,48): warning : multi-character character constant [-Wmultichar]
+         return archive_access_select (parent, z, ArchiveFormatADF, dodefault, retcode, index);
+                                                  ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(2788,38): warning : multi-character character constant [-Wmultichar]
+    zv = zvolume_alloc_nofile (dirname, ArchiveFormatDIR, NULL, NULL);
+                                        ^
+  ../../zfile_archive.cpp: In function 'zvolume* archive_directory_fat(zfile*)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile_archive.cpp(2010,101): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    fatdirectory (z, zv, _T(""), rootdir, rootentries, sectorspercluster, reserved, dataregion, fatbits);
+                                                                                                       ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+   static TCHAR *diskimages[] = { _T("adf"), _T("adz"), _T("ipf"), _T("scp"), _T("fdi"), _T("dms"), _T("wrp"), _T("dsq"), 0 };
+                                                                                                                            ^
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(262,122): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+  ../../zfile.cpp: In function 'zfile* zfile_gunzip(zfile*, int*)':
+D:\midwa\Projects\GitHub\uae4arm-rpi\src\vs2015\amiberry\..\..\zfile.cpp(573,28): warning : deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+    removeext (name, _T(".gz"));
+                              ^
+  C:/SysGCC/raspberry/bin/arm-linux-gnueabihf-g++.exe -o Debug/amiberry-rpi3 -Wl,-gc-sections -DDEBUG -D_REENTRANT -DCPU_arm -DARMV6_ASSEMBLY -DPANDORA -DWITH_INGAME_WARNING -DUSE_SDL -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DRASPBERRY -DUSE_ARMNEON  -L=/usr/local/lib -L../../guisan -Wl,--start-group Debug/neon_helper.o Debug/akiko.o Debug/7zBuf.o Debug/7zCrc.o Debug/7zStream.o Debug/7zAlloc.o Debug/7zDecode.o Debug/7zExtract.o Debug/7zHeader.o Debug/7zIn.o Debug/7zItem.o Debug/Bcj2.o Debug/Bra.o Debug/Bra86.o Debug/LzmaDec.o Debug/crc_csum.o Debug/getbits.o Debug/maketbl.o Debug/pfile.o Debug/tables.o Debug/u_deep.o Debug/u_heavy.o Debug/u_init.o Debug/u_medium.o Debug/u_quick.o Debug/u_rle.o Debug/crcio.o Debug/dhuf.o Debug/header.o Debug/huf.o Debug/larc.o Debug/lhamaketbl.o Debug/lharc.o Debug/shuf.o Debug/slide.o Debug/uae_lha.o Debug/util.o Debug/unlzx.o Debug/warp.o Debug/unzip.o Debug/aros.rom.o Debug/audio.o Debug/autoconf.o Debug/blitfunc.o Debug/blittable.o Debug/blitter.o Debug/blkdev.o Debug/blkdev_cdimage.o Debug/bsdsocket.o Debug/calc.o Debug/cdrom.o Debug/cfgfile.o Debug/cia.o Debug/cpudefs.o Debug/cpuemu_0.o Debug/cpuemu_11.o Debug/cpuemu_4.o Debug/cpustbl.o Debug/crc32.o Debug/custom.o Debug/disk.o Debug/diskutil.o Debug/drawing.o Debug/events.o Debug/expansion.o Debug/filesys.o Debug/fpp.o Debug/fsdb.o Debug/fsdb_unix.o Debug/fsusage.o Debug/gfxboard.o Debug/gfxutil.o Debug/hardfile.o Debug/inputdevice.o Debug/compemu.o Debug/compemu_fpp.o Debug/compemu_support.o Debug/compstbl.o Debug/keybuf.o Debug/support.o Debug/main.o Debug/memory.o Debug/native2amiga.o Debug/newcpu.o Debug/newcpu_common.o Debug/bsdsocket_host.o Debug/cda_play.o Debug/charset.o Debug/fsdb_host.o Debug/CreateFilesysHardfile.o Debug/EditFilesysHardfile.o Debug/EditFilesysVirtual.o Debug/InGameMessage.o Debug/main_window.o Debug/Navigation.o Debug/PanelChipset.o Debug/PanelConfig.o Debug/PanelCPU.o Debug/PanelDisplay.o Debug/PanelFloppy.o Debug/PanelHD.o Debug/PanelInput.o Debug/PanelMisc.o Debug/PanelPaths.o Debug/PanelRAM.o Debug/PanelROM.o Debug/PanelSavestate.o Debug/PanelSound.o Debug/sdltruetypefont.o Debug/SelectFile.o Debug/SelectFolder.o Debug/SelectorEntry.o Debug/ShowMessage.o Debug/UaeCheckBox.o Debug/UaeDropDown.o Debug/UaeListBox.o Debug/UaeRadioButton.o Debug/hardfile_pandora.o Debug/keyboard.o Debug/menu_config.o Debug/mp3decoder.o Debug/pandora.o Debug/pandora_filesys.o Debug/pandora_gfx.o Debug/pandora_gui.o Debug/pandora_input.o Debug/pandora_mem.o Debug/pandora_rp9.o Debug/picasso96.o Debug/sigsegv_handler.o Debug/writelog.o Debug/readcpu.o Debug/rommgr.o Debug/savestate.o Debug/sound.o Debug/statusline.o Debug/traps.o Debug/uaelib.o Debug/uaeresource.o Debug/zfile.o Debug/zfile_archive.o -lSDL2 -lSDL2_image -lSDL2_ttf -lpthread -lm -lz -lpng -lrt -lxml2 -lFLAC -lmpg123 -ldl -lguisan  -Wl,--rpath='$ORIGIN'   -Wl,--end-group

@@ -653,19 +653,6 @@ void RefreshPanelInput(void)
 
     chkMouseHack->setSelected(changed_prefs.input_tablet == TABLET_MOUSEHACK);
 #endif
-<<<<<<< HEAD:src/osdep/gui/PanelInput.cpp
-  chkCustomCtrl->setSelected(changed_prefs.pandora_customControls);
-  cboA->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_HOME]));
-  cboB->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_END]));
-  cboX->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_PAGEDOWN]));
-  cboY->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_PAGEUP]));
-  cboL->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_RSHIFT]));
-  cboR->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_RCTRL]));
-  cboUp->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_UP]));
-  cboDown->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_DOWN]));
-  cboLeft->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_LEFT]));
-  cboRight->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_RIGHT]));
-=======
 //    chkCustomCtrl->setSelected(changed_prefs.pandora_customControls);
 //    cboA->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_HOME]));
 //    cboB->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_END]));
@@ -677,7 +664,6 @@ void RefreshPanelInput(void)
 //    cboDown->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_DOWN]));
 //    cboLeft->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_LEFT]));
 //    cboRight->setSelected(GetAmigaKeyIndex(customControlMap[SDLK_RIGHT]));
->>>>>>> sdl2:src/od-pandora/gui/PanelInput.cpp
 
     for(i=0; i<4; ++i)
     {

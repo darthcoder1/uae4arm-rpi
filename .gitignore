@@ -16,3 +16,4 @@ kickstarts/*.rom
 *.dep
 *.log
 src/vs2015/amiberry/Debug/amiberry-rpi3
+/src/vs2015/amiberry/CodeDB/amiberry-rpi3-Debug-Win32

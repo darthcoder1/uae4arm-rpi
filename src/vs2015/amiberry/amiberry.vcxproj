@@ -197,6 +197,7 @@
     <ClCompile Include="..\..\osdep\mp3decoder.cpp" />
     <ClCompile Include="..\..\osdep\pandora.cpp" />
     <ClCompile Include="..\..\osdep\pandora_filesys.cpp" />
+    <ClCompile Include="..\..\osdep\pandora_gfx.cpp" />
     <ClCompile Include="..\..\osdep\pandora_gui.cpp" />
     <ClCompile Include="..\..\osdep\pandora_input.cpp" />
     <ClCompile Include="..\..\osdep\pandora_mem.cpp" />
