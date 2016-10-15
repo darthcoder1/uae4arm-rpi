@@ -6,17 +6,17 @@ ifeq ($(PLATFORM),rpi3)
 	CPU_FLAGS += -march=armv8-a -mfpu=neon-fp-armv8 -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DUSE_ARMNEON
 	LDFLAGS += -lbcm_host
-	HAVE_DISPMANX = 1
+	HAVE_SDL_DISPLAY = 1
 else ifeq ($(PLATFORM),rpi2)
 	CPU_FLAGS += -march=armv7-a -mfpu=neon-vfpv4 -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND -DARMV6T2 -DUSE_ARMNEON
 	LDFLAGS += -lbcm_host
-	HAVE_DISPMANX = 1
+	HAVE_SDL_DISPLAY = 1
 else ifeq ($(PLATFORM),rpi1)
 	CPU_FLAGS += -march=armv6zk -mfpu=vfp -mfloat-abi=hard
 	MORE_CFLAGS += -DRASPBERRY -DCAPSLOCK_DEBIAN_WORKAROUND
 	LDFLAGS += -lbcm_host
-	HAVE_DISPMANX = 1
+	HAVE_SDL_DISPLAY = 1
 endif
 
 NAME   = uae4arm
@@ -35,11 +35,11 @@ PANDORA=1
 #GEN_PROFILE=1
 #USE_PROFILE=1
 
-DEFAULT_CFLAGS = $(CFLAGS) `sdl-config --cflags`
+DEFAULT_CFLAGS = $(CFLAGS) -I/usr/include/SDL2 -D_REENTRANT
 
 MY_LDFLAGS = $(LDFLAGS)
-MY_LDFLAGS += -lSDL -lpthread -lz -lSDL_image -lpng -lrt -lxml2 -lFLAC -lmpg123 -ldl
-MY_LDFLAGS += -lSDL_ttf -lguichan_sdl -lguichan -L/opt/vc/lib 
+MY_LDFLAGS += -lSDL2 -lpthread -lz -lSDL2_image -lpng -lrt -lxml2 -lFLAC -lmpg123 -ldl
+MY_LDFLAGS += -lSDL2_ttf -lguisan -L/usr/local/lib -Lsrc/guisan 
 
 MORE_CFLAGS += -I/usr/include/libxml2
 MORE_CFLAGS += -DPANDORA -DARMV6_ASSEMBLY -DWITH_INGAME_WARNING

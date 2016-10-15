@@ -17,7 +17,7 @@
 #include "drawing.h"
 #include "statusline.h"
 
-extern SDL_Surface *prSDLScreen;
+extern SDL_Surface *amigaSurface;
 extern int idletime_percent;
 
 /*

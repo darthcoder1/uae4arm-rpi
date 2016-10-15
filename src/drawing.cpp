@@ -70,7 +70,7 @@ bool aga_mode; /* mirror of chipset_mask & CSMASK_AGA */
    coordinates have a lower resolution (i.e. we're shrinking the image).  */
 static int res_shift;
 
-extern SDL_Surface *prSDLScreen;
+extern SDL_Surface *screenSurface;
 
 /* Lookup tables for dual playfields.  The dblpf_*1 versions are for the case
    that playfield 1 has the priority, dbplpf_*2 are used if playfield 2 has

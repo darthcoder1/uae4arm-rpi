@@ -1,7 +1,7 @@
-#include <guichan.hpp>
-#include <SDL/SDL_ttf.h>
-#include <guichan/sdl.hpp>
-#include "sdltruetypefont.hpp"
+#include <guisan.hpp>
+#include <SDL_ttf.h>
+#include <guisan/sdl.hpp>
+#include "guisan/sdl/sdltruetypefont.hpp"
 #include "SelectorEntry.hpp"
 #include "UaeRadioButton.hpp"
 #include "UaeDropDown.hpp"
@@ -17,7 +17,6 @@
 #include "filesys.h"
 #include "gui.h"
 #include "gui_handling.h"
-
 
 static gcn::UaeCheckBox* chkStatusLine;
 static gcn::UaeCheckBox* chkHideIdleLed;
